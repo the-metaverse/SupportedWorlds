@@ -7,6 +7,6 @@ app.get("/supported-worlds", (req: Request, res: Response) => {
   res.send(SupportedWorlds);
 });
 
-app.listen(3001, function () {
+app.listen(3003, function () {
   console.log(`App is running!`);
 });
