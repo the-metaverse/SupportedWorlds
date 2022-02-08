@@ -4,7 +4,6 @@ import { SupportedWorlds } from "./SupportedWorlds";
 const app: Application = express();
 
 app.get("/supported-worlds", (req: Request, res: Response) => {
-  console.log("SupportedWorlds:", SupportedWorlds);
   res.send(SupportedWorlds);
 });
 
