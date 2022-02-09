@@ -22,6 +22,7 @@ interface ISupportedWorlds {
   exists: {
     map: boolean;
     leaderboard: boolean;
+    analytics: boolean;
   };
 }
 
@@ -50,6 +51,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     exists: {
       map: true,
       leaderboard: true,
+      analytics: true,
     },
   },
   {
@@ -80,6 +82,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     exists: {
       map: true,
       leaderboard: true,
+      analytics: true,
     },
   },
   {
@@ -103,6 +106,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     exists: {
       map: true,
       leaderboard: true,
+      analytics: true,
     },
   },
   {
@@ -142,6 +146,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     exists: {
       map: true,
       leaderboard: true,
+      analytics: true,
     },
   },
   {
@@ -178,6 +183,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     exists: {
       map: false,
       leaderboard: false,
+      analytics: false,
     },
   },
 ];
