@@ -11,6 +11,7 @@ app.use(
       "http://localhost:3001",
       "https://wemeta-analytics-client-dev.herokuapp.com/welcome",
       "https://analytics.wemeta.world/welcome",
+      "https://wemeta-analytics-client-dev.herokuapp.com",
     ],
   })
 );
