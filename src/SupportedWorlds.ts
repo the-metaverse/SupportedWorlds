@@ -157,6 +157,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     label: "League of Kingdoms",
     logo: "/logos/league-of-kingdoms.webp",
     website: "https://www.leagueofkingdoms.com/",
+    whitepaper: 'https://whitepaper.playersarena.foundation/loka'
     theme: "#8CEEF7",
     description:
       "League of Kingdoms' is an MMO Strategy game where gamers fight for dominion. You can fully own and seamlessly trade digital assets through NFT technology. You will participate in game governance through transparent voting and congress system.",
