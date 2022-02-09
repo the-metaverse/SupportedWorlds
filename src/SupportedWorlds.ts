@@ -35,7 +35,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     value: "decentraland",
     label: "Decentraland",
-    logo: "/logos/decentraland.webp",
+    logo: "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/decentraland.webp",
     website: "https://decentraland.org/",
     whitepaper: "https://docs.decentraland.org/decentraland/whitepaper/",
     currency: "MANA",
@@ -61,7 +61,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     value: "the_sandbox",
     label: "The Sandbox",
-    logo: "/logos/the-sandbox.webp",
+    logo: "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/the-sandbox.webp",
     website: "https://www.sandbox.game/en/",
     whitepaper:
       "https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf",
@@ -92,7 +92,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     value: "cryptovoxels",
     label: "Cryptovoxels",
-    logo: "/logos/cryptovoxels.webp",
+    logo: "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/cryptovoxels.webp",
     website: "https://www.cryptovoxels.com/",
     theme: "#959595",
     description:
@@ -116,7 +116,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     value: "somnium_space",
     label: "Somnium Space",
-    logo: "/logos/somnium-space.webp",
+    logo: "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/somnium-space.webp",
     website: "https://somniumspace.com/",
     whitepaper:
       "https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf",
@@ -155,9 +155,9 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     value: "league_of_kingdoms",
     label: "League of Kingdoms",
-    logo: "/logos/league-of-kingdoms.webp",
+    logo: "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/league-of-kingdoms.webp",
     website: "https://www.leagueofkingdoms.com/",
-    whitepaper: 'https://whitepaper.playersarena.foundation/loka',
+    whitepaper: "https://whitepaper.playersarena.foundation/loka",
     theme: "#8CEEF7",
     description:
       "League of Kingdoms' is an MMO Strategy game where gamers fight for dominion. You can fully own and seamlessly trade digital assets through NFT technology. You will participate in game governance through transparent voting and congress system.",
@@ -193,7 +193,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     value: "nft-worlds",
     label: "NFT Worlds",
-    logo: "/logos/nft-worlds.webp",
+    logo: "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/nft-worlds.webp",
     website: "https://www.nftworlds.com/",
     whitepaper:
       "https://ipfs.nftworlds.com/ipfs/QmUqC5sa4dDLmuAE9ZmbxcyezBq2FAdiNKdH751wS2v8fd",
