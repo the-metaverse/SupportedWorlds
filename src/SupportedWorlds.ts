@@ -12,6 +12,7 @@ interface ISupportedWorlds {
   twitter?: string;
   whitepaper?: string;
   currency?: string;
+  theme: string;
   description: string;
   table?: {
     label: string;
@@ -37,6 +38,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     website: "https://decentraland.org/",
     whitepaper: "https://docs.decentraland.org/decentraland/whitepaper/",
     currency: "MANA",
+    theme: "#EB4C5A",
     description:
       "Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users of Decentraland can build and explore 3D creations, play games and socialize. The currency of Decentraland is MANA.",
     table: [
@@ -62,6 +64,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     whitepaper:
       "https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf",
     currency: "SAND",
+    theme: "#3C87F3",
     description:
       "The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain SAND.",
     table: [
@@ -88,7 +91,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     label: "Cryptovoxels",
     logo: "/logos/cryptovoxels.webp",
     website: "https://www.cryptovoxels.com/",
-    whitepaper: "",
+    theme: "#959595",
     description:
       "Cryptovoxels is a virtual world and metaverse, powered by the Ethereum blockchain. Players can buy land and build stores and art galleries. Editing tools, avatars and text chat are built in. The currency of Cryptovoxels is ETH.",
     currency: "ETH",
@@ -113,6 +116,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     website: "https://somniumspace.com/",
     whitepaper:
       "https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf",
+    theme: "#5DC182",
     description:
       "Somnium Space is a virtual reality platform powered by the Ethereum blockchain. Users of Decentraland can build and explore 3D creations, play games and socialize. The currency of Somnium Space is CUBE.",
     currency: "CUBE",
@@ -148,6 +152,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     label: "League of Kingdoms",
     logo: "/logos/league-of-kingdoms.webp",
     website: "https://www.leagueofkingdoms.com/",
+    theme: "#8CEEF7",
     description:
       "League of Kingdoms' is an MMO Strategy game where gamers fight for dominion. You can fully own and seamlessly trade digital assets through NFT technology. You will participate in game governance through transparent voting and congress system.",
     currency: "LOKA",
