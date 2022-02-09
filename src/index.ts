@@ -10,8 +10,10 @@ app.use(
   })
 );
 
+app.use(express.static("public"));
+
 app.get("/", (req: Request, res: Response) => {
   res.send(SupportedWorlds);
 });
 
-app.listen(process.env.PORT || 5000);
+app.listen(process.env.PORT || 3010);
