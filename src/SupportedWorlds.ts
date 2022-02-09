@@ -186,4 +186,23 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       analytics: false,
     },
   },
+  {
+    addresses: {
+      land: "0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9",
+    },
+    value: "nft-worlds",
+    label: "NFT Worlds",
+    logo: "/logos/nft-worlds.webp",
+    website: "https://www.nftworlds.com/",
+    whitepaper:
+      "https://ipfs.nftworlds.com/ipfs/QmUqC5sa4dDLmuAE9ZmbxcyezBq2FAdiNKdH751wS2v8fd",
+    theme: "#70483C",
+    description:
+      "NFT Worlds are Minecraft compatible, massively multiplayer, will have developer APIs, are decentralized, and more.",
+    exists: {
+      map: false,
+      leaderboard: false,
+      analytics: false,
+    },
+  },
 ];
