@@ -7,14 +7,19 @@ const app = express();
 app.use(
   cors({
     origin: [
-      "https://wemeta-supported-worlds-prod.herokuapp.com/",
-      "https://wemeta-supported-worlds-dev.herokuapp.com/",
+      "http://localhost:3000",
+      "http://localhost:3001",
+      "https://wemeta-analytics-client-dev.herokuapp.com/welcome",
+      "https://analytics.wemeta.world/welcome",
+      "https://wemeta-analytics-client-dev.herokuapp.com",
     ],
   })
 );
+
+app.use(express.static("public"));
 
 app.get("/", (req: Request, res: Response) => {
   res.send(SupportedWorlds);
 });
 
-app.listen(process.env.PORT || 5000);
+app.listen(process.env.PORT || 3010);
