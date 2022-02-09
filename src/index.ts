@@ -6,10 +6,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: [
-      "https://wemeta-supported-worlds-prod.herokuapp.com/",
-      "https://wemeta-supported-worlds-dev.herokuapp.com/",
-    ],
+    origin: ["http://localhost:3001"],
   })
 );
 
