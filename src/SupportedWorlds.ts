@@ -202,7 +202,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     exists: {
       map: false,
       leaderboard: false,
-      analytics: true,
+      analytics: false,
     },
   },
 ];
