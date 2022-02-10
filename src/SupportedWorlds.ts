@@ -239,7 +239,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
   },
   {
     addresses: {
-      land: '0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9',
+      land: '0xBD4455dA5929D5639EE098ABFaa3241e9ae111Af',
     },
     available: {
       NFTBank_estimate: true,
