@@ -1,3 +1,5 @@
+type Chain = 'ethereum' | 'polygon';
+
 interface ISupportedWorlds {
   addresses: {
     land: string;
@@ -10,6 +12,7 @@ interface ISupportedWorlds {
     analytics: boolean;
     NFTBank_estimate: boolean;
   };
+  chain: Chain;
   coingecko_id?: string;
   currency?: string;
   description: string;
@@ -40,6 +43,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       leaderboard: true,
       map: true,
     },
+    chain: 'ethereum',
     coingecko_id: 'decentraland',
     currency: 'MANA',
     description:
@@ -76,6 +80,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       map: true,
       NFTBank_estimate: true,
     },
+    chain: 'ethereum',
     coingecko_id: 'the-sandbox',
     currency: 'SAND',
     description:
@@ -129,6 +134,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       map: true,
       NFTBank_estimate: true,
     },
+    chain: 'ethereum',
     coingecko_id: 'ethereum',
     currency: 'ETH',
     description:
@@ -160,6 +166,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       leaderboard: true,
       map: true,
     },
+    chain: 'ethereum',
     coingecko_id: 'somnium-space-cubes',
     currency: 'CUBE',
     description:
@@ -200,6 +207,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       leaderboard: false,
       map: false,
     },
+    chain: 'ethereum',
     coingecko_id: 'leagueofkingdoms',
     currency: 'LOKA',
     description:
@@ -239,6 +247,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       leaderboard: false,
       map: false,
     },
+    chain: 'ethereum',
     description:
       'NFT Worlds are Minecraft compatible, massively multiplayer, will have developer APIs, are decentralized, and more.',
     label: 'NFT Worlds',
