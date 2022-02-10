@@ -253,7 +253,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     label: 'NFT Worlds',
     logo: 'https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/nft-worlds.webp',
     theme: '#70483C',
-    value: 'nft-worlds',
+    value: 'nft_worlds',
     website: 'https://www.nftworlds.com/',
     whitepaper:
       'https://ipfs.nftworlds.com/ipfs/QmUqC5sa4dDLmuAE9ZmbxcyezBq2FAdiNKdH751wS2v8fd',
