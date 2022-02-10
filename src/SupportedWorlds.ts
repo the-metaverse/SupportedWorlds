@@ -19,10 +19,11 @@ interface ISupportedWorlds {
     value: string;
   }[];
   coingecko_id?: string;
-  exists: {
+  available: {
     map: boolean;
     leaderboard: boolean;
     analytics: boolean;
+    NFTBank_estimate: boolean;
   };
 }
 
@@ -48,10 +49,11 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       { label: 'Parcel Area', value: '16m²' },
     ],
     coingecko_id: 'decentraland',
-    exists: {
+    available: {
       map: true,
       leaderboard: true,
       analytics: true,
+      NFTBank_estimate: true,
     },
   },
   {
@@ -79,10 +81,11 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       { label: 'X-Large Estate Size', value: '24x24' },
     ],
     coingecko_id: 'the-sandbox',
-    exists: {
+    available: {
       map: true,
       leaderboard: true,
       analytics: true,
+      NFTBank_estimate: true,
     },
   },
   {
@@ -103,10 +106,11 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       { label: 'Total Land Area', value: '1,034,288m²' },
     ],
     coingecko_id: 'ethereum',
-    exists: {
+    available: {
       map: true,
       leaderboard: true,
       analytics: true,
+      NFTBank_estimate: true,
     },
   },
   {
@@ -143,10 +147,11 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       },
     ],
     coingecko_id: 'somnium-space-cubes',
-    exists: {
+    available: {
       map: true,
       leaderboard: true,
       analytics: true,
+      NFTBank_estimate: true,
     },
   },
   {
@@ -181,10 +186,11 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       },
     ],
     coingecko_id: 'leagueofkingdoms',
-    exists: {
+    available: {
       map: false,
       leaderboard: false,
       analytics: false,
+      NFTBank_estimate: true,
     },
   },
   {
@@ -200,10 +206,11 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     theme: '#70483C',
     description:
       'NFT Worlds are Minecraft compatible, massively multiplayer, will have developer APIs, are decentralized, and more.',
-    exists: {
+    available: {
       map: false,
       leaderboard: false,
       analytics: false,
+      NFTBank_estimate: true,
     },
   },
 ];
