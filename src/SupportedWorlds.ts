@@ -72,7 +72,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
   {
     addresses: {
       coin: '0x3845badAde8e6dFF049820680d1F14bD3903a5d0',
-      land: '0x50f5474724e0Ee42D9a4e711ccFB275809Fd6d4a',
+      land: '0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38',
     },
     available: {
       analytics: true,
