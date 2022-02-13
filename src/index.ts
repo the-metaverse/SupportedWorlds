@@ -16,7 +16,8 @@ app.use(
       'https://analytics.wemeta.world',
       'https://wemeta-dev.herokuapp.com',
       "https://wemeta-staging.herokuapp.com",
-      "https://wemeta.world"
+      "https://wemeta.world",
+      "wemeta-api-production.herokuapp.com",
     ],
   }),
 );
