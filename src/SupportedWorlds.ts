@@ -243,8 +243,8 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     available: {
       NFTBank_estimate: false,
-      analytics: false,
-      leaderboard: false,
+      analytics: true,
+      leaderboard: true,
       map: false,
     },
     chain: 'ethereum',
