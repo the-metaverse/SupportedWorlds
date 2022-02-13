@@ -5,20 +5,20 @@ import { SupportedWorlds } from './SupportedWorlds';
 
 const app = express();
 
+const ORIGINS = [
+  'http://localhost:3000',
+  'http://localhost:3001',
+  'https://analytics.wemeta.world',
+  'https://analytics.wemeta.world/',
+  'https://wemeta-analytics-client-dev.herokuapp.com',
+  'https://wemeta-analytics-client-dev.herokuapp.com/',
+  'https://wemeta-dev.herokuapp.com/',
+  'https://wemeta-dev.herokuapp.com',
+];
+
 app.use(
   cors({
-    origin: [
-      'http://localhost:3000',
-      'http://localhost:3001',
-      'https://wemeta-analytics-client-dev.herokuapp.com/welcome',
-      'https://analytics.wemeta.world/welcome',
-      'https://wemeta-analytics-client-dev.herokuapp.com',
-      'https://analytics.wemeta.world',
-      'https://wemeta-dev.herokuapp.com',
-      "https://wemeta-staging.herokuapp.com",
-      "https://wemeta.world",
-      "https://wemeta-api-production.herokuapp.com",
-    ],
+    origin: ORIGINS,
   }),
 );
 
