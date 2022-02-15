@@ -14,6 +14,9 @@ const ORIGINS = [
   'https://wemeta-analytics-client-dev.herokuapp.com/',
   'https://wemeta-dev.herokuapp.com/',
   'https://wemeta-dev.herokuapp.com',
+  'https://wemeta.world/',
+  'https://wemeta.world/browse',
+  'https://wemeta.world/leaderboards',
 ];
 
 app.use(
