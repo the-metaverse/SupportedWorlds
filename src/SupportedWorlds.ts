@@ -258,4 +258,24 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     whitepaper:
       'https://ipfs.nftworlds.com/ipfs/QmUqC5sa4dDLmuAE9ZmbxcyezBq2FAdiNKdH751wS2v8fd',
   },
+  {
+    addresses: {
+      land: '0xfD89EA92F6EC07d955e2adBBA2400Ca1a6369028',
+    },
+    available: {
+      NFTBank_estimate: false,
+      analytics: false,
+      leaderboard: false,
+      map: false,
+    },
+    chain: 'ethereum',
+    description:
+      'The SuperWorld Decentralized Ad Network allows virtual landowners to share revenue generated on their property; through advertising, e-commerce, data, analytics, transactions, gaming and much more.',
+    label: 'SuperWorld',
+    logo: 'https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/superworlds.webp',
+    theme: '#9197FB',
+    twitter: 'superworldapp',
+    value: 'superworld',
+    website: 'https://www.superworldapp.com/',
+  },
 ];
