@@ -272,7 +272,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     description:
       'The SuperWorld Decentralized Ad Network allows virtual landowners to share revenue generated on their property; through advertising, e-commerce, data, analytics, transactions, gaming and much more.',
     label: 'SuperWorld',
-    logo: 'https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/superworlds.webp',
+    logo: 'https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/superworld.webp',
     theme: '#9197FB',
     twitter: 'superworldapp',
     value: 'superworld',
