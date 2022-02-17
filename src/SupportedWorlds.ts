@@ -14,6 +14,7 @@ interface ISupportedWorlds {
   };
   chain: Chain;
   coingecko_id?: string;
+  opensea_slug?: string;
   currency?: string;
   description: string;
   discord?: string;
@@ -45,6 +46,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     chain: 'ethereum',
     coingecko_id: 'decentraland',
+    opensea_slug: 'decentraland',
     currency: 'MANA',
     description:
       'Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users of Decentraland can build and explore 3D creations, play games and socialize. The currency of Decentraland is MANA.',
@@ -82,6 +84,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     chain: 'ethereum',
     coingecko_id: 'the-sandbox',
+    opensea_slug: 'sandbox',
     currency: 'SAND',
     description:
       'The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain SAND.',
@@ -136,6 +139,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     chain: 'ethereum',
     coingecko_id: 'ethereum',
+    opensea_slug: 'cryptovoxels',
     currency: 'ETH',
     description:
       'Cryptovoxels is a virtual world and metaverse, powered by the Ethereum blockchain. Players can buy land and build stores and art galleries. Editing tools, avatars and text chat are built in. The currency of Cryptovoxels is ETH.',
@@ -168,6 +172,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     chain: 'ethereum',
     coingecko_id: 'somnium-space-cubes',
+    opensea_slug: 'somnium-space',
     currency: 'CUBE',
     description:
       'Somnium Space is a virtual reality platform powered by the Ethereum blockchain. Users of Decentraland can build and explore 3D creations, play games and socialize. The currency of Somnium Space is CUBE.',
@@ -209,6 +214,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
     },
     chain: 'ethereum',
     coingecko_id: 'leagueofkingdoms',
+    opensea_slug: 'league-of-kingdoms',
     currency: 'LOKA',
     description:
       "League of Kingdoms' is an MMO Strategy game where gamers fight for dominion. You can fully own and seamlessly trade digital assets through NFT technology. You will participate in game governance through transparent voting and congress system.",
@@ -248,6 +254,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       map: false,
     },
     chain: 'ethereum',
+    opensea_slug: 'nft-worlds',
     description:
       'NFT Worlds are Minecraft compatible, massively multiplayer, will have developer APIs, are decentralized, and more.',
     label: 'NFT Worlds',
@@ -269,6 +276,7 @@ export const SupportedWorlds: ISupportedWorlds[] = [
       map: false,
     },
     chain: 'ethereum',
+    opensea_slug: 'superworld',
     description:
       'The SuperWorld Decentralized Ad Network allows virtual landowners to share revenue generated on their property; through advertising, e-commerce, data, analytics, transactions, gaming and much more.',
     label: 'SuperWorld',
