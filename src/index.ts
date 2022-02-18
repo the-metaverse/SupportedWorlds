@@ -6,10 +6,11 @@ import { SupportedWorlds } from './SupportedWorlds';
 
 const app = express();
 
+const port = process.env.PORT || 3010;
+
 app.use(
   cors({
-    origin:
-    [
+    origin: [
       'http://localhost:3000',
       'http://localhost:3001',
       'https://wemeta.world',
@@ -33,4 +34,6 @@ app.get('/communities', (req: Request, res: Response) => {
   res.send(SupportedCommunities);
 });
 
-app.listen(process.env.PORT || 3010);
+app.listen(port, () => {
+  console.log(`Server started on port ${port}`);
+});
