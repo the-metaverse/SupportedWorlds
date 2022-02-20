@@ -1,4 +1,4 @@
-[
+{
     "decentraland": {
         "name": "Decentraland",
         "address": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
@@ -29,4 +29,4 @@
         "address": "0xf980759616a795b2d692a5c0a0f1bad651984bc1",
         "opensea_slug": "somnium-space"
     }
-]
+}

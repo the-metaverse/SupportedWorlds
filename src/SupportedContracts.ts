@@ -9,6 +9,6 @@ interface ISupportedContracts {
   };
 }
 
-export const SupportedContracts: ISupportedContracts[] = JSON.parse(
+export const SupportedContracts: ISupportedContracts = JSON.parse(
   JSON.stringify(SupportedContractsJSON),
 );
