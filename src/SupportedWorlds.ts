@@ -1,4 +1,4 @@
-import SupportedWorldsJSON from '../supported_worlds.json';
+import SupportedWorldsJSON from '../data/supported_worlds.json';
 
 type Chain = 'ethereum' | 'polygon';
 
