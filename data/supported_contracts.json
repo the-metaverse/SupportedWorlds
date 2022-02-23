@@ -1,38 +1,38 @@
 {
-   "decentraland":{
-      "name":"Decentraland",
-      "address":"0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
-      "opensea_slug":"decentraland",
-      "standard_name":"decentraland"
-   },
-   "decentraland_estates":{
-      "name":"Decentraland",
-      "address":"0x959e104e1a4db6317fa58f8295f586e1a978c297",
-      "opensea_slug":"decentraland",
-      "standard_name":"decentraland"
-   },
-   "cryptovoxels":{
-      "name":"Cryptovoxels",
-      "address":"0x79986af15539de2db9a5086382daeda917a9cf0c",
-      "opensea_slug":"cryptovoxels",
-      "standard_name":"cryptovoxels"
-   },
-   "the_sandbox":{
-      "name":"Sandbox",
-      "address":"0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38",
-      "opensea_slug":"sandbox",
-      "standard_name":"the_sandbox"
-   },
-   "somnium_space":{
-      "name":"Somnium Space",
-      "address":"0x913ae503153d9a335398d0785ba60a2d63ddb4e2",
-      "opensea_slug":"somnium-space",
-      "standard_name":"somnium_space"
-   },
-   "somnium_space_worlds":{
-      "name":"Somnium Space",
-      "address":"0xf980759616a795b2d692a5c0a0f1bad651984bc1",
-      "opensea_slug":"somnium-space",
-      "standard_name":"somnium_space"
-   }
+    "decentraland": {
+        "name": "Decentraland",
+        "address": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
+        "opensea_slug": "decentraland",
+        "standard_name": "decentraland"
+    },
+    "decentraland_estates": {
+        "name": "Decentraland",
+        "address": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
+        "opensea_slug": "decentraland",
+        "standard_name": "decentraland"
+    },
+    "cryptovoxels": {
+        "name": "Cryptovoxels",
+        "address": "0x79986af15539de2db9a5086382daeda917a9cf0c",
+        "opensea_slug": "cryptovoxels",
+        "standard_name": "cryptovoxels"
+    },
+    "the_sandbox": {
+        "name": "Sandbox",
+        "address": "0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38",
+        "opensea_slug": "sandbox",
+        "standard_name": "the_sandbox"
+    },
+    "somnium_space": {
+        "name": "Somnium Space",
+        "address": "0x913ae503153d9a335398d0785ba60a2d63ddb4e2",
+        "opensea_slug": "somnium-space",
+        "standard_name": "somnium_space"
+    },
+    "somnium_space_worlds": {
+        "name": "Somnium Space",
+        "address": "0xf980759616a795b2d692a5c0a0f1bad651984bc1",
+        "opensea_slug": "somnium-space",
+        "standard_name": "somnium_space"
+    }
 }
