@@ -22,10 +22,15 @@ interface ISupportedWorlds {
   discord?: string;
   label: string;
   logo: string;
+  parcelSize?: number;
   table?: {
     label: string;
     value: string;
   }[];
+  traits?: {
+    ignore?: string[];
+    top?: any[];
+  };
   theme: string;
   twitter?: string;
   value: string;
