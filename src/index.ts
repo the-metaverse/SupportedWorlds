@@ -1,27 +1,17 @@
 import cors from 'cors';
 import express, { Request, Response } from 'express';
 
+import { SupportedCommunities } from './SupportedCommunities';
+import { SupportedContracts } from './SupportedContracts';
 import { SupportedWorlds } from './SupportedWorlds';
 
 const app = express();
 
+const port = process.env.PORT || 3010;
+
 app.use(
   cors({
     origin: '*',
-    // [
-    //   'http://localhost:3000',
-    //   'http://localhost:3001',
-    //   'https://analytics.wemeta.world',
-    //   'https://analytics.wemeta.world/',
-    //   'https://wemeta-analytics-client-dev.herokuapp.com',
-    //   'https://wemeta-analytics-client-dev.herokuapp.com/',
-    //   'https://wemeta-dev.herokuapp.com/',
-    //   'https://wemeta-dev.herokuapp.com',
-    //   'https://wemeta.world',
-    //   'https://wemeta.world/',
-    //   'https://wemeta.world/browse',
-    //   'https://wemeta.world/leaderboards',
-    // ],
   }),
 );
 
@@ -31,4 +21,14 @@ app.get('/', (req: Request, res: Response) => {
   res.send(SupportedWorlds);
 });
 
-app.listen(process.env.PORT || 3010);
+app.get('/communities', (req: Request, res: Response) => {
+  res.send(SupportedCommunities);
+});
+
+app.get('/owners', (req: Request, res: Response) => {
+  res.send(SupportedContracts);
+});
+
+app.listen(port, () => {
+  console.log(`Server started on port ${port}`);
+});
