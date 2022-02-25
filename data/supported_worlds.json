@@ -42,12 +42,12 @@
           "label": "from Road"
         },
         {
-          "value": "Distance to Road",
-          "label": "from Road"
+          "value": "Distance to District",
+          "label": "from District"
         },
         {
-          "value": "Distance to Road",
-          "label": "from Road"
+          "value": "Distance to Plaza",
+          "label": "from Plaza"
         }
       ]
     },
