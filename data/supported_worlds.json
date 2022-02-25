@@ -192,17 +192,7 @@
     ],
     "theme": "#5DC182",
     "traits": {
-      "ignore": ["Type"],
-      "top": [
-        {
-          "value": "roadside_status",
-          "label": "Roadside"
-        },
-        {
-          "value": "waterfront_status",
-          "label": "Waterside"
-        }
-      ]
+      "ignore": ["Type"]
     },
     "value": "somnium_space",
     "website": "https://somniumspace.com/",
