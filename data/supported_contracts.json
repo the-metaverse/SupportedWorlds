@@ -40,5 +40,11 @@
         "address": "0xBD4455dA5929D5639EE098ABFaa3241e9ae111Af",
         "opensea_slug": "nft-worlds",
         "standard_name": "nft_worlds"
+    },
+    "superworld": {
+        "name": "Superworld",
+        "address": "0xfD89EA92F6EC07d955e2adBBA2400Ca1a6369028",
+        "opensea_slug": "superworld",
+        "standard_name": "superworld"
     }
 }
