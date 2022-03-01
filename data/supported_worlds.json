@@ -316,6 +316,7 @@
     "label": "SuperWorld",
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/superworld.webp",
     "opensea_slug": "superworld",
+    "parcelSize": 100,
     "theme": "#9197FB",
     "twitter": "superworldapp",
     "value": "superworld",
