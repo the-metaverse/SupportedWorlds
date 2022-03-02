@@ -18,15 +18,11 @@
     "description": "Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users of Decentraland can build and explore 3D creations, play games and socialize. The currency of Decentraland is MANA.",
     "label": "Decentraland",
     "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/decentraland.webp",
-    "parcelSize": 256,
+    "parcelSize": 16,
     "table": [
       {
         "label": "Number of Parcels",
         "value": "90,000"
-      },
-      {
-        "label": "Metaverse Area",
-        "value": "9km²"
       },
       {
         "label": "Parcel Area",
