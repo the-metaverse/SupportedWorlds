@@ -2,6 +2,7 @@ import cors from 'cors';
 import express, { Request, Response } from 'express';
 
 import { SupportedCommunities } from './SupportedCommunities';
+import { SupportedContracts } from './SupportedContracts';
 import { SupportedWorlds } from './SupportedWorlds';
 
 const app = express();
@@ -22,6 +23,10 @@ app.get('/', (req: Request, res: Response) => {
 
 app.get('/communities', (req: Request, res: Response) => {
   res.send(SupportedCommunities);
+});
+
+app.get('/owners', (req: Request, res: Response) => {
+  res.send(SupportedContracts);
 });
 
 app.listen(port, () => {
