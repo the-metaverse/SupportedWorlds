@@ -317,5 +317,45 @@
     "twitter": "superworldapp",
     "value": "superworld",
     "website": "https://www.superworldapp.com/"
+  },
+  {
+    "addresses": {
+      "land": "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51"
+    },
+    "available": {
+      "NFTBank_estimate": false,
+      "analytics": false,
+      "leaderboard": false,
+      "map": false
+    },
+    "chain": "ethereum",
+    "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects.",
+    "label": "WorldWide Webb Land",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worldwideweb3logo.webp",
+    "opensea_slug": "worldwide_webb_land",
+    "theme": "#131D36",
+    "twitter": "Worldwide_WEB3",
+    "value": "worldwide_webb_land",
+    "website": "https://webb.game/"
+  },
+  {
+    "addresses": {
+      "land": "0x1B829B926a14634d36625e60165c0770C09D02b2"
+    },
+    "available": {
+      "NFTBank_estimate": false,
+      "analytics": false,
+      "leaderboard": false,
+      "map": false
+    },
+    "chain": "ethereum",
+    "description": "Treeverse is an open-world, fantasy MMORPG with a MOBA-style combat system.",
+    "label": "Treeverse",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/treeverse.webp",
+    "opensea_slug": "treeverse",
+    "theme": "#59b057",
+    "twitter": "TheTreeverse",
+    "value": "treeverse",
+    "website": "https://play.treeverse.net/"
   }
 ]
