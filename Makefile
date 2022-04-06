@@ -1,7 +1,7 @@
-DOCKER_VERSION := 2
+DOCKER_VERSION := 3
 
 build:
-	docker build -t wemeta-supported-worlds .
+	docker buildx build --platform=linux/amd64 -t wemeta-supported-worlds .
 	docker tag wemeta-supported-worlds 256487760603.dkr.ecr.us-west-2.amazonaws.com/wemeta-supported-worlds:${DOCKER_VERSION}
 	aws ecr get-login-password | docker login --username AWS --password-stdin 256487760603.dkr.ecr.us-west-2.amazonaws.com
 	docker push 256487760603.dkr.ecr.us-west-2.amazonaws.com/wemeta-supported-worlds:${DOCKER_VERSION}
