@@ -1,4 +1,4 @@
-DOCKER_VERSION := 1
+DOCKER_VERSION := 2
 
 build:
 	docker build -t wemeta-supported-worlds .

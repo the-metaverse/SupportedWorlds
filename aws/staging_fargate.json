@@ -1,43 +1,41 @@
 {
-    "family": "wemeta-supported-worlds-staging",
-    "networkMode": "awsvpc",
-    "executionRoleArn": "arn:aws:iam::256487760603:role/wemeta-backend-task-execution-role",
-    "taskRoleArn": "arn:aws:iam::256487760603:role/wemeta-backend-task-execution-role",
-    "containerDefinitions": [
+  "family": "wemeta-supported-worlds-staging",
+  "networkMode": "awsvpc",
+  "executionRoleArn": "arn:aws:iam::256487760603:role/wemeta-backend-task-execution-role",
+  "taskRoleArn": "arn:aws:iam::256487760603:role/wemeta-backend-task-execution-role",
+  "containerDefinitions": [
+    {
+      "name": "wemeta-supported-world-staging",
+      "image": "256487760603.dkr.ecr.us-west-2.amazonaws.com/wemeta-supported-worlds:2",
+      "essential": true,
+      "portMappings": [
         {
-            "name": "wemeta-supported-world-staging",
-            "image": "256487760603.dkr.ecr.us-west-2.amazonaws.com/wemeta-supported-worlds:1",
-            "essential": true,
-            "portMappings": [
-                {
-                    "hostPort": 3010,
-                    "protocol": "tcp",
-                    "containerPort": 3010
-                }
-            ],
-            "environment": [
-                {
-                    "name": "ENVIRONMENT",
-                    "value": "staging"
-                },
-                {
-                    "name": "AWSREGION",
-                    "value": "us-west-2"
-                }
-            ],
-            "logConfiguration": {
-                "logDriver": "awslogs",
-                "options": {
-                    "awslogs-group": "wemeta-supported-worlds-staging",
-                    "awslogs-region": "us-west-2",
-                    "awslogs-stream-prefix": "wemeta-supported-worlds-staging"
-                }
-            }
+          "hostPort": 3010,
+          "protocol": "tcp",
+          "containerPort": 3010
         }
-    ],
-    "requiresCompatibilities": [
-        "FARGATE"
-    ],
-    "cpu": "256",
-    "memory": "512"
+      ],
+      "environment": [
+        {
+          "name": "ENVIRONMENT",
+          "value": "staging"
+        },
+        {
+          "name": "AWSREGION",
+          "value": "us-west-2"
+        }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "wemeta-supported-worlds-staging",
+          "awslogs-region": "us-west-2",
+          "awslogs-stream-prefix": "wemeta-supported-worlds-staging"
+        }
+      }
+    }
+  ],
+  "requiresCompatibilities": ["FARGATE"],
+  "cpu": "256",
+  "memory": "512"
 }
