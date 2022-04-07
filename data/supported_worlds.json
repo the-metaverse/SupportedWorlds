@@ -323,19 +323,19 @@
       "land": "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51"
     },
     "available": {
-      "NFTBank_estimate": false,
+      "NFTBank_estimate": true,
       "analytics": false,
       "leaderboard": false,
       "map": false
     },
     "chain": "ethereum",
     "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects.",
-    "label": "WorldWide Webb Land",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worldwideweb3logo.webp",
-    "opensea_slug": "worldwide_webb_land",
+    "label": "WorldWide Webb",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worldwide_webb.webp",
+    "opensea_slug": "worldwidewebbland",
     "theme": "#131D36",
     "twitter": "Worldwide_WEB3",
-    "value": "worldwide_webb_land",
+    "value": "worldwide_webb",
     "website": "https://webb.game/"
   },
   {
