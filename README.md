@@ -27,12 +27,12 @@ schema:
     "parcelSize": 16,
     "table": [
         {
-        "label": "Number of Parcels",
-        "value": "90,000"
+            "label": "Number of Parcels",
+            "value": "90,000"
         },
         {
-        "label": "Parcel Area",
-        "value": "16m²"
+            "label": "Parcel Area",
+            "value": "16m²"
         }
     ],
     "theme": "#EB4C5A",
