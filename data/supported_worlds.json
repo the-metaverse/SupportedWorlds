@@ -49,8 +49,7 @@
     },
     "value": "decentraland",
     "website": "https://decentraland.org/",
-    "whitepaper": "https://docs.decentraland.org/decentraland/whitepaper/",
-    "leaderboard_enabled": true
+    "whitepaper": "https://docs.decentraland.org/decentraland/whitepaper/"
   },
   {
     "addresses": {
@@ -105,8 +104,7 @@
     "traits": { "ignore": ["Land Y", "Land X"] },
     "value": "the_sandbox",
     "website": "https://www.sandbox.game/en/",
-    "whitepaper": "https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf",
-    "leaderboard_enabled": true
+    "whitepaper": "https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf"
   },
   {
     "addresses": {
@@ -150,8 +148,7 @@
       ]
     },
     "value": "cryptovoxels",
-    "website": "https://www.cryptovoxels.com/",
-    "leaderboard_enabled": true
+    "website": "https://www.cryptovoxels.com/"
   },
   {
     "addresses": {
@@ -205,8 +202,7 @@
     },
     "value": "somnium_space",
     "website": "https://somniumspace.com/",
-    "whitepaper": "https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf",
-    "leaderboard_enabled": true
+    "whitepaper": "https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf"
   },
   {
     "addresses": {
@@ -263,8 +259,7 @@
     },
     "value": "league_of_kingdoms",
     "website": "https://www.leagueofkingdoms.com/",
-    "whitepaper": "https://whitepaper.playersarena.foundation/loka",
-    "leaderboard_enabled": true
+    "whitepaper": "https://whitepaper.playersarena.foundation/loka"
   },
   {
     "addresses": {
@@ -300,8 +295,7 @@
     },
     "value": "nft_worlds",
     "website": "https://www.nftworlds.com/",
-    "whitepaper": "https://ipfs.nftworlds.com/ipfs/QmUqC5sa4dDLmuAE9ZmbxcyezBq2FAdiNKdH751wS2v8fd",
-    "leaderboard_enabled": true
+    "whitepaper": "https://ipfs.nftworlds.com/ipfs/QmUqC5sa4dDLmuAE9ZmbxcyezBq2FAdiNKdH751wS2v8fd"
   },
   {
     "addresses": {
@@ -322,8 +316,7 @@
     "theme": "#9197FB",
     "twitter": "superworldapp",
     "value": "superworld",
-    "website": "https://www.superworldapp.com/",
-    "leaderboard_enabled": true
+    "website": "https://www.superworldapp.com/"
   },
   {
     "addresses": {
@@ -343,8 +336,7 @@
     "theme": "#131D36",
     "twitter": "Worldwide_WEB3",
     "value": "worldwide_webb_land",
-    "website": "https://webb.game/",
-    "leaderboard_enabled": false
+    "website": "https://webb.game/"
   },
   {
     "addresses": {
@@ -364,7 +356,6 @@
     "theme": "#59b057",
     "twitter": "TheTreeverse",
     "value": "treeverse",
-    "website": "https://play.treeverse.net/",
-    "leaderboard_enabled": false
+    "website": "https://play.treeverse.net/"
   }
 ]
