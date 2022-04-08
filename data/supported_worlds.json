@@ -49,7 +49,8 @@
     },
     "value": "decentraland",
     "website": "https://decentraland.org/",
-    "whitepaper": "https://docs.decentraland.org/decentraland/whitepaper/"
+    "whitepaper": "https://docs.decentraland.org/decentraland/whitepaper/",
+    "leaderboard_enabled": true
   },
   {
     "addresses": {
@@ -104,7 +105,8 @@
     "traits": { "ignore": ["Land Y", "Land X"] },
     "value": "the_sandbox",
     "website": "https://www.sandbox.game/en/",
-    "whitepaper": "https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf"
+    "whitepaper": "https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf",
+    "leaderboard_enabled": true
   },
   {
     "addresses": {
@@ -148,7 +150,8 @@
       ]
     },
     "value": "cryptovoxels",
-    "website": "https://www.cryptovoxels.com/"
+    "website": "https://www.cryptovoxels.com/",
+    "leaderboard_enabled": true
   },
   {
     "addresses": {
@@ -202,7 +205,8 @@
     },
     "value": "somnium_space",
     "website": "https://somniumspace.com/",
-    "whitepaper": "https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf"
+    "whitepaper": "https://somniumspace.com/files/Somnium%20Space%20Economy%20Paper.pdf",
+    "leaderboard_enabled": true
   },
   {
     "addresses": {
@@ -259,7 +263,8 @@
     },
     "value": "league_of_kingdoms",
     "website": "https://www.leagueofkingdoms.com/",
-    "whitepaper": "https://whitepaper.playersarena.foundation/loka"
+    "whitepaper": "https://whitepaper.playersarena.foundation/loka",
+    "leaderboard_enabled": true
   },
   {
     "addresses": {
@@ -295,7 +300,8 @@
     },
     "value": "nft_worlds",
     "website": "https://www.nftworlds.com/",
-    "whitepaper": "https://ipfs.nftworlds.com/ipfs/QmUqC5sa4dDLmuAE9ZmbxcyezBq2FAdiNKdH751wS2v8fd"
+    "whitepaper": "https://ipfs.nftworlds.com/ipfs/QmUqC5sa4dDLmuAE9ZmbxcyezBq2FAdiNKdH751wS2v8fd",
+    "leaderboard_enabled": true
   },
   {
     "addresses": {
@@ -316,6 +322,7 @@
     "theme": "#9197FB",
     "twitter": "superworldapp",
     "value": "superworld",
-    "website": "https://www.superworldapp.com/"
+    "website": "https://www.superworldapp.com/",
+    "leaderboard_enabled": true
   }
 ]
