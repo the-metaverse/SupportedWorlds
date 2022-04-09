@@ -18,7 +18,7 @@
 │   ├── index.ts
 │   ├── SupportedCommunities.ts
 │   ├── SupportedContracts.ts
-│   ├── SupportedWorlds.ts
+│   └── SupportedWorlds.ts
 ├── .env
 ├── .eslintrc
 ├── .gitignore
