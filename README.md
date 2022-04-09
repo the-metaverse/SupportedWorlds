@@ -93,3 +93,15 @@ schema:
 
 1. create a new world in the supported_worlds.json file by following the schema
 and appending to the list of supported worlds.
+
+## Deploying to AWS
+
+## Staging
+1. Update the image version in [staging_fargate.json](/aws/staging_fargate.json) and [Dockerfile](/Dockerfile)
+2. Run `make build`
+3. Run `make deploy-staging`
+
+### Production
+1. Update the image version in [production_fargate.json](/aws/production_fargate.json) and [Dockerfile](/Dockerfile)
+2. Run `make build`
+3. Run `make deploy-prod`
