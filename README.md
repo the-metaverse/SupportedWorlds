@@ -1,5 +1,33 @@
 # Supported Worlds
 
+## Directory Structure
+```
+.
+├── aws
+│   ├── production_fargate.json
+│   └── staging_fargate
+├── data
+│   ├── communities.json
+│   ├── supported_contracts.json
+│   └── supported_worlds.json
+├── dist                            # local build output
+├── node_modules                    # npm dependencies
+├── public                          # static files
+│   └── logos                       # logos
+├── src
+├── .env
+├── .eslintrc
+├── .gitignore
+├── .prettierrc
+├── Dockerfile
+├── Makefile
+├── package-lock.json
+├── package.json
+├── README.md
+├── tests.sh
+└── tsconfig.json
+```
+
 ## Adding a new world
 file: [supported_worlds.json](data/supported_worlds.json)
 
