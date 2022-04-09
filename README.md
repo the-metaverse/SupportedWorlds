@@ -15,6 +15,10 @@
 ├── public                          # static files
 │   └── logos                       # logos
 ├── src
+│   ├── index.ts
+│   ├── SupportedCommunities.ts
+│   ├── SupportedContracts.ts
+│   ├── SupportedWorlds.ts
 ├── .env
 ├── .eslintrc
 ├── .gitignore
