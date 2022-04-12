@@ -34,5 +34,17 @@
         "address": "0xf980759616a795b2d692a5c0a0f1bad651984bc1",
         "opensea_slug": "somnium-space",
         "standard_name": "somnium_space"
+    },
+    "nft_worlds": {
+        "name": "NFT Worlds",
+        "address": "0xBD4455dA5929D5639EE098ABFaa3241e9ae111Af",
+        "opensea_slug": "nft-worlds",
+        "standard_name": "nft_worlds"
+    },
+    "superworld": {
+        "name": "SuperWorld",
+        "address": "0xfD89EA92F6EC07d955e2adBBA2400Ca1a6369028",
+        "opensea_slug": "superworld",
+        "standard_name": "superworld"
     }
 }
