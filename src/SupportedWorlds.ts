@@ -31,7 +31,10 @@ interface ISupportedWorlds {
     ignore?: string[];
     top?: any[];
   };
-  theme: string;
+  theme: {
+    light: string;
+    dark: string;
+  };
   twitter?: string;
   value: string;
   website: string;

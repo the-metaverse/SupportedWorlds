@@ -29,7 +29,7 @@
         "value": "16m²"
       }
     ],
-    "theme": "#EB4C5A",
+    "theme": { "light": "#EB4C5A", "dark": "#EB4C5A" },
     "traits": {
       "ignore": ["X", "Y", "Type"],
       "top": [
@@ -100,7 +100,7 @@
         "value": "24x24"
       }
     ],
-    "theme": "#3C87F3",
+    "theme": { "light": "#3C87F3", "dark": "#3C87F3" },
     "traits": { "ignore": ["Land Y", "Land X"] },
     "value": "the_sandbox",
     "website": "https://www.sandbox.game/en/",
@@ -134,7 +134,7 @@
         "value": "1,034,288m²"
       }
     ],
-    "theme": "#959595",
+    "theme": { "light": "#959595", "dark": "#959595" },
     "traits": {
       "top": [
         {
@@ -186,7 +186,7 @@
         "value": "1500m² & 50m height limit"
       }
     ],
-    "theme": "#5DC182",
+    "theme": { "light": "#5DC182", "dark": "#5DC182" },
     "traits": {
       "ignore": ["Type"],
       "top": [
@@ -239,7 +239,7 @@
         "value": "1500m² & 50m height limit"
       }
     ],
-    "theme": "#8CEEF7",
+    "theme": { "light": "#8CEEF7", "dark": "#8CEEF7" },
     "traits": {
       "ignore": ["ID", "Profile Image", "Land Color", "Location", "Type"],
       "top": [
@@ -276,7 +276,7 @@
     "label": "NFT Worlds",
     "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/nft-worlds.webp",
     "opensea_slug": "nft-worlds",
-    "theme": "#2c4978",
+    "theme": { "light": "#2c4978", "dark": "#6b80a1" },
     "traits": {
       "top": [
         {
@@ -313,7 +313,7 @@
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/superworld.webp",
     "opensea_slug": "superworld",
     "parcelSize": 100,
-    "theme": "#9197FB",
+    "theme": { "light": "#9197FB", "dark": "#9197FB" },
     "twitter": "superworldapp",
     "value": "superworld",
     "website": "https://www.superworldapp.com/"
@@ -333,7 +333,7 @@
     "label": "WorldWide Webb Land",
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worldwideweb3.webp",
     "opensea_slug": "worldwide_webb_land",
-    "theme": "#131D36",
+    "theme": { "light": "#131D36", "dark": "#131D36" },
     "twitter": "Worldwide_WEB3",
     "value": "worldwide_webb_land",
     "website": "https://webb.game/"
@@ -353,7 +353,7 @@
     "label": "Treeverse",
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/treeverse.webp",
     "opensea_slug": "treeverse",
-    "theme": "#59b057",
+    "theme": { "light": "#59b057", "dark": "#59b057" },
     "twitter": "TheTreeverse",
     "value": "treeverse",
     "website": "https://play.treeverse.net/"
