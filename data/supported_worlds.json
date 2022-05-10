@@ -276,7 +276,7 @@
     "label": "NFT Worlds",
     "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/nft-worlds.webp",
     "opensea_slug": "nft-worlds",
-    "theme": { "light": "#2c4978", "dark": "#6b80a1" },
+    "theme": { "light": "#2c4978", "dark": "#E5D3B3" },
     "traits": {
       "top": [
         {
