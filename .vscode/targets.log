@@ -1,0 +1,338 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-apple-darwin11.3.0
+ 
+make: *** No rule to make target `all'.  Stop.
+
+
+# Make data base, printed on Tue May 10 20:50:48 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+RUBY_VERSION = ruby-2.6.3
+# automatic
+?F = $(notdir $?)
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+rvm_path = /Users/apinanyogaratnam/.rvm
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# automatic
+@F = $(notdir $@)
+# makefile
+CURDIR := /Users/apinanyogaratnam/Desktop/supported-worlds
+# makefile
+SHELL = /bin/sh
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+_ = /usr/bin/make
+# environment
+VSCODE_PID = 458
+# makefile (from `Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# environment
+WARP_IS_LOCAL_SHELL_SESSION = 1
+# environment
+rvm_ruby_mode = 
+# environment
+rvm_ruby_make = 
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+__CFBundleIdentifier = com.microsoft.VSCode
+# environment
+rvm_proxy = 
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/vg/8_hsqtpx03526fw9_f7lz09m0000gn/T/vscode-ipc-8c79dcdb-4885-43db-8c6a-a3c97a3fa16e.sock
+# environment
+VSCODE_CWD = /Users/apinanyogaratnam/Desktop/supported-worlds
+# environment
+rvm_pretty_print_flag = 
+# environment
+WARP_USE_SSH_WRAPPER = 1
+# environment
+PATH = /Users/apinanyogaratnam/.rvm/gems/ruby-2.6.3/bin:/Users/apinanyogaratnam/.rvm/gems/ruby-2.6.3@global/bin:/Users/apinanyogaratnam/.rvm/rubies/ruby-2.6.3/bin:/Users/apinanyogaratnam/.pyenv/bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/apinanyogaratnam/.cargo/bin:/Applications/Postgres.app/Contents/Versions/13/bin:/Users/apinanyogaratnam/.rvm/bin
+# environment
+LSCOLORS = Gxfxcxdxbxegedabagacad
+# environment
+rvm_niceness = 
+# environment
+rvm_only_path_flag = 
+# environment
+LaunchInstanceID = D9DFB210-078E-4C8F-B2E7-3B9B362DC7DD
+# environment
+rvm_gemstone_package_file = 
+# environment
+VSCODE_LOG_STACK = false
+# makefile (from `Makefile', line 1)
+DOCKER_VERSION := v1.3.0
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+PYENV_ROOT = /Users/apinanyogaratnam/.pyenv
+# environment
+rvm_alias_expanded = 
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
+# environment
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.aqAYZzj8Be/Listeners
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+rvm_bin_path = /Users/apinanyogaratnam/.rvm/bin
+# environment
+PWD = /Users/apinanyogaratnam/Desktop/supported-worlds
+# environment
+WARP_PS1 = %(?:%{[01;32m%}➜ :%{[01;31m%}➜ ) %{$fg[cyan]%}%c%{$reset_color%} $(git_prompt_info)
+# environment
+GEM_HOME = /Users/apinanyogaratnam/.rvm/gems/ruby-2.6.3
+# environment
+rvm_docs_type = 
+# environment
+rvm_script_name = 
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /Users/apinanyogaratnam
+# default
+MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
+# environment
+VSCODE_CLI = 1
+# environment
+VSCODE_CODE_CACHE_PATH = /Users/apinanyogaratnam/Library/Application Support/Code/CachedData/57fd6d0195bb9b9d1b49f6da5db789060795de47
+# environment
+LOGNAME = apinanyogaratnam
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+NVM_CD_FLAGS = -q
+# environment
+ZSH = /Users/apinanyogaratnam/.oh-my-zsh
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+rvm_ruby_bits = 
+# environment
+GEM_PATH = /Users/apinanyogaratnam/.rvm/gems/ruby-2.6.3:/Users/apinanyogaratnam/.rvm/gems/ruby-2.6.3@global
+# environment
+XPC_FLAGS = 0x0
+# environment
+COLORTERM = truecolor
+# environment
+rvm_ruby_make_install = 
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+IRBRC = /Users/apinanyogaratnam/.rvm/rubies/ruby-2.6.3/.irbrc
+# environment
+SHLVL = 3
+# environment
+rvm_quiet_flag = 
+# default
+MAKE_VERSION := 3.81
+# environment
+USER = apinanyogaratnam
+# makefile
+.DEFAULT_GOAL := build
+# environment
+rvm_version = 1.29.12 (latest)
+# environment
+LESS = -R
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# default
+MAKE_COMMAND := /Applications/Xcode.app/Contents/Developer/usr/bin/make
+# environment
+TERM_PROGRAM = WarpTerminal
+# default
+.VARIABLES := 
+# environment
+TMPDIR = /var/folders/vg/8_hsqtpx03526fw9_f7lz09m0000gn/T/
+# automatic
+*F = $(notdir $*)
+# environment
+VSCODE_IPC_HOOK = /Users/apinanyogaratnam/Library/Application Support/Code/1.67.0-main.sock
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+TERM_PROGRAM_VERSION = v0.2022.05.02.09.00.stable_01
+# environment
+NVM_DIR = /Users/apinanyogaratnam/.nvm
+# environment
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.112150214.112150220.92BBE9F4-0FCE-47AD-AE10-869136333A4D
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+rvm_sdk = 
+# environment
+__CF_USER_TEXT_ENCODING = 0x1F5:0x0:0x52
+# environment
+COMMAND_MODE = unix2003
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+rvm_silent_flag = 
+# environment
+rvm_gemstone_url = 
+# environment
+PAGER = less
+# environment
+LC_ALL = C
+# environment
+CONDA_CHANGEPS1 = false
+# environment
+rvm_bin_flag = 
+# environment
+SECURITYSESSIONID = 186a5
+# automatic
+^F = $(notdir $^)
+# environment
+rvm_prefix = /Users/apinanyogaratnam
+# default
+SUFFIXES := 
+# environment
+rvm_ruby_file = 
+# default
+.INCLUDE_DIRS = /usr/local/include
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# environment
+TERM = xterm-256color
+# environment
+rvm_use_flag = 
+# environment
+rvm_hook = 
+# environment
+MY_RUBY_HOME = /Users/apinanyogaratnam/.rvm/rubies/ruby-2.6.3
+# environment
+NVM_RC_VERSION = 
+# environment
+rvm_nightly_flag = 
+# variable set hash-table stats:
+# Load=113/1024=11%, Rehash=0, Collisions=7/137=5%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 16777220, inode 98641212): 21 files, no impossibilities.
+
+# 21 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+deploy-prod:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 11):
+	aws ecs register-task-definition --region us-west-2 --cli-input-json file://aws/production_fargate.json
+	aws ecs update-service --cluster wemeta-supported-worlds-prod --service wemeta-supported-worlds-prod --task-definition wemeta-supported-worlds-prod --force-new-deployment
+	
+
+# Not a target:
+ 
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-10 20:50:46
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+build:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 4):
+	docker buildx build --platform=linux/amd64 -t wemeta-supported-worlds .
+	docker tag wemeta-supported-worlds 256487760603.dkr.ecr.us-west-2.amazonaws.com/wemeta-supported-worlds:${DOCKER_VERSION}
+	aws ecr get-login-password | docker login --username AWS --password-stdin 256487760603.dkr.ecr.us-west-2.amazonaws.com
+	docker push 256487760603.dkr.ecr.us-west-2.amazonaws.com/wemeta-supported-worlds:${DOCKER_VERSION}
+	@echo 'NOTE: please bump image version in the fargate json and run make deploy-<env> to update'
+	
+
+deploy-staging:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 15):
+	aws ecs register-task-definition --region us-west-2 --cli-input-json file://aws/staging_fargate.json
+	aws ecs update-service --cluster wemeta-supported-worlds-staging --service wemeta-supported-worlds-staging-2 --task-definition wemeta-supported-worlds-staging --force-new-deployment
+	
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=7/1024=1%, Rehash=0, Collisions=0/19=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Tue May 10 20:50:48 2022
+
+ 

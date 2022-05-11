@@ -9,7 +9,7 @@ build:
 
 deploy-prod:
 	aws ecs register-task-definition --region us-west-2 --cli-input-json file://aws/production_fargate.json
-	aws ecs update-service --cluster wemeta-supported-worlds --service wemeta-supported-worlds-prod --task-definition wemeta-supported-worlds-prod --force-new-deployment
+	aws ecs update-service --cluster wemeta-supported-worlds-prod --service wemeta-supported-worlds-prod --task-definition wemeta-supported-worlds-prod --force-new-deployment
 
 deploy-staging:
 	aws ecs register-task-definition --region us-west-2 --cli-input-json file://aws/staging_fargate.json
