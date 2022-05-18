@@ -1,4 +1,4 @@
-DOCKER_VERSION := 4
+DOCKER_VERSION := 5
 
 build:
 	docker buildx build --platform=linux/amd64 -t wemeta-supported-worlds .
