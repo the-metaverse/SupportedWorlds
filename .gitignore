@@ -21,3 +21,6 @@ dist
 
 # environment variables
 .env
+
+# log files
+*.log
