@@ -120,9 +120,9 @@
     "chain": "ethereum",
     "coingecko_id": "ethereum",
     "currency": "ETH",
-    "description": "Cryptovoxels is a virtual world and metaverse, powered by the Ethereum blockchain. Players can buy land and build stores and art galleries. Editing tools, avatars and text chat are built in. The currency of Cryptovoxels is ETH.",
-    "label": "Cryptovoxels",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/cryptovoxels.webp",
+    "description": "A virtual world on the Ethereum blockchain. Build, develop, and sell property on the blocks and streets of Voxels (previously Cryptovoxels). Users own the land and assets, with ownership and trading history recorded permanently on the blockchain.",
+    "label": "Voxels",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/voxels.webp",
     "opensea_slug": "cryptovoxels",
     "table": [
       {
