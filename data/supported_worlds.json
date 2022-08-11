@@ -335,6 +335,14 @@
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worldwideweb3.webp",
     "opensea_slug": "worldwide_webb_land",
     "theme": { "light": "#131D36", "dark": "#131D36" },
+    "traits": {
+      "top": [
+        {
+          "value": "type",
+          "label": "Type"
+        }
+      ]
+    },
     "twitter": "Worldwide_WEB3",
     "value": "worldwide_webb_land",
     "website": "https://webb.game/"
