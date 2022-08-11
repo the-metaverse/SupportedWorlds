@@ -333,7 +333,7 @@
     "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects.",
     "label": "WorldWide Webb Land",
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worldwideweb3.webp",
-    "opensea_slug": "worldwide_webb_land",
+    "opensea_slug": "worldwidewebbland",
     "theme": { "light": "#131D36", "dark": "#131D36" },
     "traits": {
       "top": [
