@@ -364,14 +364,14 @@
       "land": "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258"
     },
     "available": {
-      "NFTBank_estimate": false,
+      "NFTBank_estimate": true,
       "analytics": true,
-      "leaderboard": false,
+      "leaderboard": true,
       "map": false
     },
     "chain": "ethereum",
     "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
-    "label": "Otherside",
+    "label": "Otherdeed for Otherside",
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/otherside.webp",
     "opensea_slug": "otherdeed",
     "theme": { "light": "#000", "dark": "#fff" },
