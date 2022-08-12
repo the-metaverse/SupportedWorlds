@@ -334,7 +334,7 @@
     "label": "WorldWide Webb Land",
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worldwideweb3.webp",
     "opensea_slug": "worldwidewebbland",
-    "theme": { "light": "#131D36", "dark": "#131D36" },
+    "theme": { "light": "#d657e6", "dark": "#d657e6" },
     "traits": {
       "top": [
         {
@@ -382,7 +382,7 @@
     "label": "Otherdeed for Otherside",
     "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/otherside.webp",
     "opensea_slug": "otherdeed",
-    "theme": { "light": "rgba(0, 0, 0, 0.80)", "dark": "rgba(0, 0, 0, 0.06)" },
+    "theme": { "light": "#000", "dark": "#fff" },
     "traits": {
       "top": [
         {
