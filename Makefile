@@ -8,9 +8,9 @@ build:
 	@echo 'NOTE: please bump image version in the fargate json and run make deploy-<env> to update'
 
 deploy-prod:
-	aws ecs register-task-definition --region us-west-2 --cli-input-json file://aws/production_fargate.json
-	aws ecs update-service --cluster wemeta-supported-worlds-prod --service wemeta-supported-worlds-prod --task-definition wemeta-supported-worlds-prod --force-new-deployment
+	aws ecs register-task-definition --region us-west-2 --cli-input-json file://aws/production_fargate.json --no-cli-pager
+	aws ecs update-service --cluster wemeta-supported-worlds-prod --service wemeta-supported-worlds-prod --task-definition wemeta-supported-worlds-prod --force-new-deployment --no-cli-pager
 
 deploy-staging:
-	aws ecs register-task-definition --region us-west-2 --cli-input-json file://aws/staging_fargate.json
-	aws ecs update-service --cluster wemeta-supported-worlds-staging --service wemeta-supported-worlds-staging-2 --task-definition wemeta-supported-worlds-staging --force-new-deployment
+	aws ecs register-task-definition --region us-west-2 --cli-input-json file://aws/staging_fargate.json --no-cli-pager
+	aws ecs update-service --cluster wemeta-supported-worlds-staging --service wemeta-supported-worlds-staging-2 --task-definition wemeta-supported-worlds-staging --force-new-deployment --no-cli-pager
