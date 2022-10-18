@@ -2,106 +2,127 @@
     {
         "label": "CryptoPunks",
         "opensea_slug": "cryptopunks",
-        "website": "https://www.larvalabs.com/cryptopunks"
+        "website": "https://www.larvalabs.com/cryptopunks",
+        "leaderboards": true
     },
     {
         "label": "Gutter Cat Gang",
         "opensea_slug": "guttercatgang",
-        "website": "https://guttercatgang.com/"
+        "website": "https://guttercatgang.com/",
+        "leaderboards": true
     },
     {
         "label": "Cool Cats NFT",
         "opensea_slug": "cool-cats-nft",
-        "website": "https://coolcatsnft.com/"
+        "website": "https://coolcatsnft.com/",
+        "leaderboards": true
     },
     {
         "label": "Bored Ape Yacht Club",
         "opensea_slug": "boredapeyachtclub",
-        "website": "https://boredapeyachtclub.com/"
+        "website": "https://boredapeyachtclub.com/",
+        "leaderboards": true
     },
     {
         "label": "VeeFriends",
         "opensea_slug": "veefriends",
-        "website": "https://veefriends.com/"
+        "website": "https://veefriends.com/",
+        "leaderboards": true
     },
     {
         "label": "Meebits",
         "opensea_slug": "meebits",
-        "website": "https://meebits.larvalabs.com/"
+        "website": "https://meebits.larvalabs.com/",
+        "leaderboards": true
     },
     {
         "label": "Sup Ducks",
         "opensea_slug": "supducks",
-        "website": "https://supducks.io/"
+        "website": "https://supducks.io/",
+        "leaderboards": true
     },
     {
         "label": "Mutant Ape Yacht Club",
         "opensea_slug": "mutant-ape-yacht-club",
-        "website": "https://mutantapeyachtclub.com/"
+        "website": "https://mutantapeyachtclub.com/",
+        "leaderboards": true
     },
     {
         "label": "Doodles",
         "opensea_slug": "doodles-official",
-        "website": "https://doodles.art/"
+        "website": "https://doodles.art/",
+        "leaderboards": true
     },
     {
         "label": "Azuki",
         "opensea_slug": "azuki",
-        "website": "https://azukicollectible.com/"
+        "website": "https://azukicollectible.com/",
+        "leaderboards": true
     },
     {
         "label": "Forgotten Runes Wizards Cult",
         "opensea_slug": "forgottenruneswizardscult",
-        "website": "https://www.forgottenrunes.com/"
+        "website": "https://www.forgottenrunes.com/",
+        "leaderboards": true
     },
     {
         "label": "CyberKongz",
         "opensea_slug": "cyberkongz",
-        "website": "https://cyberkongz.com/"
+        "website": "https://cyberkongz.com/",
+        "leaderboards": true
     },
     {
         "label": "CyberKongz VX",
         "opensea_slug": "cyberkongz-vx",
-        "website": "https://cyberkongz.com/"
+        "website": "https://cyberkongz.com/",
+        "leaderboards": true
     },
     {
         "label": "Creature World",
         "opensea_slug": "creatureworld",
-        "website": "https://creature.world/"
+        "website": "https://creature.world/",
+        "leaderboards": true
     },
     {
         "label": "Treeverse Plots",
         "opensea_slug": "treeverse-plots",
-        "website": "https://treeverse.io/"
+        "website": "https://treeverse.io/",
+        "leaderboards": true
     },
     {
         "label": "Nouns",
         "opensea_slug": "nouns",
-        "website": "https://nouns.wtf/"
+        "website": "https://nouns.wtf/",
+        "leaderboards": true
     },
     {
         "label": "CryptoAdz by Gremplin",
         "opensea_slug": "cryptoadz-by-gremplin",
-        "website": "https://cryptoadz.io/"
+        "website": "https://cryptoadz.io/",
+        "leaderboards": true
     },
     {
         "label": "Deadfellaz",
         "opensea_slug": "deadfellaz",
-        "website": "https://deadfellaz.com/"
+        "website": "https://deadfellaz.com/",
+        "leaderboards": true
     },
     {
         "label": "Adam Bomb Squad",
         "opensea_slug": "adam-bomb-squad",
-        "website": "https://adambombsquad.com/"
+        "website": "https://adambombsquad.com/",
+        "leaderboards": true
     },
     {
         "label": "The Wicked Craniums",
         "opensea_slug": "thewickedcraniums",
-        "website": "https://thewickedcraniums.com/"
+        "website": "https://thewickedcraniums.com/",
+        "leaderboards": true
     },
     {
         "label": "Mfers",
         "opensea_slug": "mfers",
-        "website": "https://mfers.io/"
+        "website": "https://mfers.io/",
+        "leaderboards": true
     }
 ]
