@@ -1,23 +1,107 @@
 [
-    "cryptopunks",
-    "guttercatgang",
-    "cool-cats-nft",
-    "boredapeyachtclub",
-    "veefriends",
-    "meebits",
-    "supducks",
-    "mutant-ape-yacht-club",
-    "doodles-official",
-    "azuki",
-    "forgottenruneswizardscult",
-    "cyberkongz",
-    "cyberkongz-vx",
-    "creatureworld",
-    "treeverse-plots",
-    "nouns",
-    "cryptoadz-by-gremplin",
-    "deadfellaz",
-    "adam-bomb-squad",
-    "thewickedcraniums",
-    "mfers"
+    {
+        "label": "CryptoPunks",
+        "opensea_slug": "cryptopunks",
+        "website": "https://www.larvalabs.com/cryptopunks"
+    },
+    {
+        "label": "Gutter Cat Gang",
+        "opensea_slug": "guttercatgang",
+        "website": "https://guttercatgang.com/"
+    },
+    {
+        "label": "Cool Cats NFT",
+        "opensea_slug": "cool-cats-nft",
+        "website": "https://coolcatsnft.com/"
+    },
+    {
+        "label": "Bored Ape Yacht Club",
+        "opensea_slug": "boredapeyachtclub",
+        "website": "https://boredapeyachtclub.com/"
+    },
+    {
+        "label": "VeeFriends",
+        "opensea_slug": "veefriends",
+        "website": "https://veefriends.com/"
+    },
+    {
+        "label": "Meebits",
+        "opensea_slug": "meebits",
+        "website": "https://meebits.larvalabs.com/"
+    },
+    {
+        "label": "Sup Ducks",
+        "opensea_slug": "supducks",
+        "website": "https://supducks.io/"
+    },
+    {
+        "label": "Mutant Ape Yacht Club",
+        "opensea_slug": "mutant-ape-yacht-club",
+        "website": "https://mutantapeyachtclub.com/"
+    },
+    {
+        "label": "Doodles",
+        "opensea_slug": "doodles-official",
+        "website": "https://doodles.art/"
+    },
+    {
+        "label": "Azuki",
+        "opensea_slug": "azuki",
+        "website": "https://azukicollectible.com/"
+    },
+    {
+        "label": "Forgotten Runes Wizards Cult",
+        "opensea_slug": "forgottenruneswizardscult",
+        "website": "https://www.forgottenrunes.com/"
+    },
+    {
+        "label": "CyberKongz",
+        "opensea_slug": "cyberkongz",
+        "website": "https://cyberkongz.com/"
+    },
+    {
+        "label": "CyberKongz VX",
+        "opensea_slug": "cyberkongz-vx",
+        "website": "https://cyberkongz.com/"
+    },
+    {
+        "label": "Creature World",
+        "opensea_slug": "creatureworld",
+        "website": "https://creature.world/"
+    },
+    {
+        "label": "Treeverse Plots",
+        "opensea_slug": "treeverse-plots",
+        "website": "https://treeverse.io/"
+    },
+    {
+        "label": "Nouns",
+        "opensea_slug": "nouns",
+        "website": "https://nouns.wtf/"
+    },
+    {
+        "label": "CryptoAdz by Gremplin",
+        "opensea_slug": "cryptoadz-by-gremplin",
+        "website": "https://cryptoadz.io/"
+    },
+    {
+        "label": "Deadfellaz",
+        "opensea_slug": "deadfellaz",
+        "website": "https://deadfellaz.com/"
+    },
+    {
+        "label": "Adam Bomb Squad",
+        "opensea_slug": "adam-bomb-squad",
+        "website": "https://adambombsquad.com/"
+    },
+    {
+        "label": "The Wicked Craniums",
+        "opensea_slug": "thewickedcraniums",
+        "website": "https://thewickedcraniums.com/"
+    },
+    {
+        "label": "Mfers",
+        "opensea_slug": "mfers",
+        "website": "https://mfers.io/"
+    }
 ]
