@@ -2,7 +2,7 @@
     {
         "label": "CryptoPunks",
         "opensea_slug": "cryptopunks",
-        "website": "https://www.larvalabs.com/cryptopunks",
+        "website": "https://larvalabs.com/cryptopunks",
         "leaderboards": true
     },
     {
@@ -62,7 +62,7 @@
     {
         "label": "Forgotten Runes Wizards Cult",
         "opensea_slug": "forgottenruneswizardscult",
-        "website": "https://www.forgottenrunes.com/",
+        "website": "https://forgottenrunes.com/",
         "leaderboards": true
     },
     {
@@ -98,13 +98,13 @@
     {
         "label": "CryptoAdz by Gremplin",
         "opensea_slug": "cryptoadz-by-gremplin",
-        "website": "https://www.cryptoadz.io/",
+        "website": "https://cryptoadz.io/",
         "leaderboards": true
     },
     {
         "label": "Deadfellaz",
         "opensea_slug": "deadfellaz",
-        "website": "https://www.deadfellaz.io/",
+        "website": "https://deadfellaz.io/",
         "leaderboards": true
     },
     {
@@ -116,7 +116,7 @@
     {
         "label": "The Wicked Craniums",
         "opensea_slug": "thewickedcraniums",
-        "website": "https://www.wickedcranium.com/",
+        "website": "https://wickedcranium.com/",
         "leaderboards": true
     },
     {
