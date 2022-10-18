@@ -124,5 +124,11 @@
         "opensea_slug": "mfers",
         "website": "https://mfers.io/",
         "leaderboards": true
+    },
+    {
+        "label": "Moonbirds",
+        "opensea_slug": "proof-moonbirds",
+        "website": "https://moonbirds.io/",
+        "leaderboards": true
     }
 ]
