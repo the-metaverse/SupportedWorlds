@@ -84,12 +84,6 @@
         "leaderboards": true
     },
     {
-        "label": "Treeverse Plots",
-        "opensea_slug": "treeverse-plots",
-        "website": "https://treeverse.io/",
-        "leaderboards": true
-    },
-    {
         "label": "Nouns",
         "opensea_slug": "nouns",
         "website": "https://nouns.wtf/",
