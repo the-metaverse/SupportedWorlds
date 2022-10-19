@@ -3,126 +3,168 @@
         "label": "CryptoPunks",
         "opensea_slug": "cryptopunks",
         "website": "https://larvalabs.com/cryptopunks",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Gutter Cat Gang",
         "opensea_slug": "guttercatgang",
         "website": "https://guttercatgang.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Cool Cats NFT",
         "opensea_slug": "cool-cats-nft",
         "website": "https://coolcatsnft.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Bored Ape Yacht Club",
         "opensea_slug": "boredapeyachtclub",
         "website": "https://boredapeyachtclub.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "VeeFriends",
         "opensea_slug": "veefriends",
         "website": "https://veefriends.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Meebits",
         "opensea_slug": "meebits",
         "website": "https://meebits.larvalabs.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Sup Ducks",
         "opensea_slug": "supducks",
         "website": "https://supducks.io/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Mutant Ape Yacht Club",
         "opensea_slug": "mutant-ape-yacht-club",
         "website": "https://mutantapeyachtclub.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Doodles",
         "opensea_slug": "doodles-official",
         "website": "https://doodles.art/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Azuki",
         "opensea_slug": "azuki",
         "website": "https://azukicollectible.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Forgotten Runes Wizards Cult",
         "opensea_slug": "forgottenruneswizardscult",
         "website": "https://forgottenrunes.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "CyberKongz",
         "opensea_slug": "cyberkongz",
         "website": "https://cyberkongz.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "CyberKongz VX",
         "opensea_slug": "cyberkongz-vx",
         "website": "https://cyberkongz.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Creature World",
         "opensea_slug": "creatureworld",
         "website": "https://creature.world/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Nouns",
         "opensea_slug": "nouns",
         "website": "https://nouns.wtf/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "CryptoAdz by Gremplin",
         "opensea_slug": "cryptoadz-by-gremplin",
         "website": "https://cryptoadz.io/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Deadfellaz",
         "opensea_slug": "deadfellaz",
         "website": "https://deadfellaz.io/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Adam Bomb Squad",
         "opensea_slug": "adam-bomb-squad",
         "website": "https://abs.thehundreds.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "The Wicked Craniums",
         "opensea_slug": "thewickedcraniums",
         "website": "https://wickedcranium.com/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Mfers",
         "opensea_slug": "mfers",
         "website": "https://mfers.art/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     },
     {
         "label": "Moonbirds",
         "opensea_slug": "proof-moonbirds",
         "website": "https://moonbirds.xyz/",
-        "leaderboards": true
+        "available": {
+            "leaderboard": true
+        }
     }
 ]
