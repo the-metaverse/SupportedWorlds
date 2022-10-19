@@ -1,23 +1,170 @@
 [
-    "cryptopunks",
-    "guttercatgang",
-    "cool-cats-nft",
-    "boredapeyachtclub",
-    "veefriends",
-    "meebits",
-    "supducks",
-    "mutant-ape-yacht-club",
-    "doodles-official",
-    "azuki",
-    "forgottenruneswizardscult",
-    "cyberkongz",
-    "cyberkongz-vx",
-    "creatureworld",
-    "treeverse-plots",
-    "nouns",
-    "cryptoadz-by-gremplin",
-    "deadfellaz",
-    "adam-bomb-squad",
-    "thewickedcraniums",
-    "mfers"
+    {
+        "label": "CryptoPunks",
+        "opensea_slug": "cryptopunks",
+        "website": "https://larvalabs.com/cryptopunks",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Gutter Cat Gang",
+        "opensea_slug": "guttercatgang",
+        "website": "https://guttercatgang.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Cool Cats NFT",
+        "opensea_slug": "cool-cats-nft",
+        "website": "https://coolcatsnft.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Bored Ape Yacht Club",
+        "opensea_slug": "boredapeyachtclub",
+        "website": "https://boredapeyachtclub.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "VeeFriends",
+        "opensea_slug": "veefriends",
+        "website": "https://veefriends.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Meebits",
+        "opensea_slug": "meebits",
+        "website": "https://meebits.larvalabs.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Sup Ducks",
+        "opensea_slug": "supducks",
+        "website": "https://supducks.io/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Mutant Ape Yacht Club",
+        "opensea_slug": "mutant-ape-yacht-club",
+        "website": "https://mutantapeyachtclub.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Doodles",
+        "opensea_slug": "doodles-official",
+        "website": "https://doodles.art/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Azuki",
+        "opensea_slug": "azuki",
+        "website": "https://azukicollectible.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Forgotten Runes Wizards Cult",
+        "opensea_slug": "forgottenruneswizardscult",
+        "website": "https://forgottenrunes.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "CyberKongz",
+        "opensea_slug": "cyberkongz",
+        "website": "https://cyberkongz.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "CyberKongz VX",
+        "opensea_slug": "cyberkongz-vx",
+        "website": "https://cyberkongz.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Creature World",
+        "opensea_slug": "creatureworld",
+        "website": "https://creature.world/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Nouns",
+        "opensea_slug": "nouns",
+        "website": "https://nouns.wtf/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "CryptoAdz by Gremplin",
+        "opensea_slug": "cryptoadz-by-gremplin",
+        "website": "https://cryptoadz.io/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Deadfellaz",
+        "opensea_slug": "deadfellaz",
+        "website": "https://deadfellaz.io/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Adam Bomb Squad",
+        "opensea_slug": "adam-bomb-squad",
+        "website": "https://abs.thehundreds.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "The Wicked Craniums",
+        "opensea_slug": "thewickedcraniums",
+        "website": "https://wickedcranium.com/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Mfers",
+        "opensea_slug": "mfers",
+        "website": "https://mfers.art/",
+        "available": {
+            "leaderboard": true
+        }
+    },
+    {
+        "label": "Moonbirds",
+        "opensea_slug": "proof-moonbirds",
+        "website": "https://moonbirds.xyz/",
+        "available": {
+            "leaderboard": true
+        }
+    }
 ]
