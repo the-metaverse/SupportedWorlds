@@ -326,7 +326,7 @@
     "available": {
       "NFTBank_estimate": true,
       "analytics": true,
-      "leaderboard": false,
+      "leaderboard": true,
       "map": false
     },
     "chain": "ethereum",
