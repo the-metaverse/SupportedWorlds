@@ -9,8 +9,7 @@
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": true,
-      "recommendations": true
+      "map": true
     },
     "chain": "ethereum",
     "coingecko_id": "decentraland",
@@ -62,8 +61,7 @@
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": true,
-      "recommendations": false
+      "map": true
     },
     "chain": "ethereum",
     "coingecko_id": "the-sandbox",
@@ -119,8 +117,7 @@
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": true,
-      "recommendations": false
+      "map": true
     },
     "chain": "ethereum",
     "coingecko_id": "ethereum",
@@ -165,8 +162,7 @@
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": true,
-      "recommendations": false
+      "map": true
     },
     "chain": "ethereum",
     "coingecko_id": "somnium-space-cubes",
@@ -221,8 +217,7 @@
       "NFTBank_estimate": true,
       "analytics": false,
       "leaderboard": false,
-      "map": false,
-      "recommendations": false
+      "map": false
     },
     "chain": "ethereum",
     "coingecko_id": "leagueofkingdoms",
@@ -281,8 +276,7 @@
       "NFTBank_estimate": false,
       "analytics": true,
       "leaderboard": true,
-      "map": false,
-      "recommendations": false
+      "map": false
     },
     "chain": "ethereum",
     "description": "NFT Worlds is a fully decentralized, fully customizable, community driven, play to earn gaming platform where world owners can create their own limitless metaverse games or experiences for players or exclusive communities within their worlds.",
@@ -320,8 +314,7 @@
       "NFTBank_estimate": false,
       "analytics": true,
       "leaderboard": true,
-      "map": false,
-      "recommendations": false
+      "map": false
     },
     "chain": "ethereum",
     "description": "The SuperWorld Decentralized Ad Network allows virtual landowners to share revenue generated on their property; through advertising, e-commerce, data, analytics, transactions, gaming and much more.",
@@ -344,8 +337,7 @@
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": false,
-      "recommendations": false
+      "map": false
     },
     "chain": "ethereum",
     "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects.",
@@ -375,8 +367,7 @@
       "NFTBank_estimate": false,
       "analytics": true,
       "leaderboard": true,
-      "map": false,
-      "recommendations": false
+      "map": false
     },
     "chain": "ethereum",
     "description": "Treeverse is an open-world, fantasy MMORPG with a MOBA-style combat system.",
@@ -398,8 +389,7 @@
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": false,
-      "recommendations": false
+      "map": false
     },
     "chain": "ethereum",
     "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
