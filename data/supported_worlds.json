@@ -2,14 +2,15 @@
   {
     "addresses": {
       "coin": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
-      "estate": "0x959e104E1a4dB6317fA58F8295F586e1A978c297",
-      "land": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d"
+      "land": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
+      "estate": "0x959e104E1a4dB6317fA58F8295F586e1A978c297"
     },
     "available": {
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": true
+      "map": true,
+      "recommendations": true
     },
     "chain": "ethereum",
     "coingecko_id": "decentraland",
@@ -54,13 +55,15 @@
   {
     "addresses": {
       "coin": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
-      "land": "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38"
+      "land": "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38",
+      "estate": null
     },
     "available": {
+      "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
       "map": true,
-      "NFTBank_estimate": true
+      "recommendations": false
     },
     "chain": "ethereum",
     "coingecko_id": "the-sandbox",
@@ -109,13 +112,15 @@
   {
     "addresses": {
       "coin": "0x0000000000000000000000000000000000000000",
-      "land": "0x79986aF15539de2db9A5086382daEdA917A9CF0C"
+      "land": "0x79986aF15539de2db9A5086382daEdA917A9CF0C",
+      "estate": null
     },
     "available": {
+      "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
       "map": true,
-      "NFTBank_estimate": true
+      "recommendations": false
     },
     "chain": "ethereum",
     "coingecko_id": "ethereum",
@@ -153,13 +158,15 @@
   {
     "addresses": {
       "coin": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
-      "land": "0x913ae503153d9A335398D0785Ba60A2d63dDB4e2"
+      "land": "0x913ae503153d9A335398D0785Ba60A2d63dDB4e2",
+      "estate": null
     },
     "available": {
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": true
+      "map": true,
+      "recommendations": false
     },
     "chain": "ethereum",
     "coingecko_id": "somnium-space-cubes",
@@ -206,13 +213,16 @@
   },
   {
     "addresses": {
-      "land": "0x6CC462bc49ceCFE943Bc4F477b23b92906e6074F"
+      "coin": null,
+      "land": "0x6CC462bc49ceCFE943Bc4F477b23b92906e6074F",
+      "estate": null
     },
     "available": {
       "NFTBank_estimate": true,
       "analytics": false,
       "leaderboard": false,
-      "map": false
+      "map": false,
+      "recommendations": false
     },
     "chain": "ethereum",
     "coingecko_id": "leagueofkingdoms",
@@ -263,14 +273,16 @@
   },
   {
     "addresses": {
+      "coin": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
       "land": "0xBD4455dA5929D5639EE098ABFaa3241e9ae111Af",
-      "coin": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9"
+      "estate": null
     },
     "available": {
       "NFTBank_estimate": false,
       "analytics": true,
       "leaderboard": true,
-      "map": false
+      "map": false,
+      "recommendations": false
     },
     "chain": "ethereum",
     "description": "NFT Worlds is a fully decentralized, fully customizable, community driven, play to earn gaming platform where world owners can create their own limitless metaverse games or experiences for players or exclusive communities within their worlds.",
@@ -300,13 +312,16 @@
   },
   {
     "addresses": {
-      "land": "0xfD89EA92F6EC07d955e2adBBA2400Ca1a6369028"
+      "coin": null,
+      "land": "0xfD89EA92F6EC07d955e2adBBA2400Ca1a6369028",
+      "estate": null
     },
     "available": {
       "NFTBank_estimate": false,
       "analytics": true,
       "leaderboard": true,
-      "map": false
+      "map": false,
+      "recommendations": false
     },
     "chain": "ethereum",
     "description": "The SuperWorld Decentralized Ad Network allows virtual landowners to share revenue generated on their property; through advertising, e-commerce, data, analytics, transactions, gaming and much more.",
@@ -321,13 +336,16 @@
   },
   {
     "addresses": {
-      "land": "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51"
+      "coin": null,
+      "land": "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51",
+      "estate": null
     },
     "available": {
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": false
+      "map": false,
+      "recommendations": false
     },
     "chain": "ethereum",
     "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects.",
@@ -349,13 +367,16 @@
   },
   {
     "addresses": {
-      "land": "0x1B829B926a14634d36625e60165c0770C09D02b2"
+      "coin": null,
+      "land": "0x1B829B926a14634d36625e60165c0770C09D02b2",
+      "estate": null
     },
     "available": {
       "NFTBank_estimate": false,
       "analytics": true,
       "leaderboard": true,
-      "map": false
+      "map": false,
+      "recommendations": false
     },
     "chain": "ethereum",
     "description": "Treeverse is an open-world, fantasy MMORPG with a MOBA-style combat system.",
@@ -369,13 +390,16 @@
   },
   {
     "addresses": {
-      "land": "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258"
+      "coin": null,
+      "land": "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+      "estate": null
     },
     "available": {
       "NFTBank_estimate": true,
       "analytics": true,
       "leaderboard": true,
-      "map": false
+      "map": false,
+      "recommendations": false
     },
     "chain": "ethereum",
     "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
