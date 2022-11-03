@@ -1,0 +1,71 @@
+[
+    {
+        "world": "decentraland",
+        "total_visits": {
+            "value": true,
+            "chart": true
+        },
+        "average_visits": {
+            "value": true,
+            "chart": true
+        },
+        "visit_length": {
+            "value": true,
+            "chart": true
+        },
+        "active_visitors": {
+            "value": true,
+            "map": true
+        },
+        "bounce_rate": {
+            "value": true
+        },
+        "user_demographics": {
+            "value": true,
+            "chart": true
+        },
+        "user_retention": {
+            "chart": true
+        },
+        "visitors_by_day_of_week": {
+            "chart": true
+        },
+        "total_visit_length": {
+            "value": true,
+            "chart": true
+        },
+        "average_visit_length": {
+            "value": true,
+            "chart": true
+        },
+        "median_visit_length": {
+            "value": true,
+            "chart": true
+        },
+        "repeat_visitors": {
+            "chart": true
+        },
+        "average_active_time": {
+            "value": true,
+            "chart": true
+        },
+        "median_active_time": {
+            "value": true,
+            "chart": true
+        },
+        "average_idle_time": {
+            "value": true,
+            "chart": true
+        },
+        "median_idle_time": {
+            "value": true,
+            "chart": true
+        },
+        "active_and_idle_visitors": {
+            "chart": true
+        },
+        "top_scenes": {
+            "chart": true
+        }
+    }
+]
