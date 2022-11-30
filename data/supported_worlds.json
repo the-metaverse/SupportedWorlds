@@ -416,5 +416,49 @@
     "twitter": "OthersideMeta",
     "value": "otherside",
     "website": "https://otherside.xyz/"
+  },
+  {
+    "addresses": {
+      "coin": null,
+      "land": "0x6eCe2E550D7848c40C26A0E704b7a19D1f8dbcF0",
+      "estate": null
+    },
+    "available": {
+      "NFTBank_estimate": false,
+      "analytics": true,
+      "leaderboard": false,
+      "map": false
+    },
+    "chain": "ethereum",
+    "description": "Sky Falls is the central region in the Game of Silks metaverse. Each land parcel gives you ownership in 1 acre of land in the metaverse. Land can be developed into horse farms that operate as gamified businesses that can earn owners ongoing valuable rewards. These highly coveted land parcels are scarce in supply and rich in utility. Owners enjoy special development rights & privileges exclusive to this core community.",
+    "label": "Silks Sky Falls Land Parcels",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/silks.webp",
+    "opensea_slug": "silks-sky-falls",
+    "theme": { "light": "#222b4f", "dark": "#fbe573" },
+    "twitter": "gameofsilks",
+    "value": "silks",
+    "website": "https://www.silks.io/"
+  },
+  {
+    "addresses": {
+      "coin": null,
+      "land": "0xe51Aac67b09EaEd6d3D43e794D6bAe679Cbe09D8",
+      "estate": null
+    },
+    "available": {
+      "NFTBank_estimate": false,
+      "analytics": true,
+      "leaderboard": false,
+      "map": false
+    },
+    "chain": "ethereum",
+    "description": "Every Fluf needs a place to call home... and you know they're all about living the high life.",
+    "label": "FLUF World: Burrows",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/fluf-world.webp",
+    "opensea_slug": "fluf-world-burrows",
+    "theme": { "light": "#e66848", "dark": "#e66848" },
+    "twitter": "flufworld",
+    "value": "flufworld",
+    "website": "https://www.fluf.world/"
   }
 ]
