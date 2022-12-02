@@ -1,0 +1,29 @@
+{
+    "bitcoin": {
+        "token": "bitcoin",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "coingecko_id": "bitcoin"
+    },
+    "ethereum": {
+        "token": "ethereum",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "coingecko_id": "ethereum"
+    },
+    "ape_coin": {
+        "name": "Ape Coin",
+        "symbol": "APE",
+        "coingecko_id": "ape_coin"
+    },
+    "the_sandbox": {
+        "name": "The Sandbox",
+        "symbol": "SAND",
+        "coingecko_id": "the-sandbox"
+    },
+    "decentraland": {
+        "name": "Decentraland",
+        "symbol": "MANA",
+        "coingecko_id": "decentraland"
+    }
+}
