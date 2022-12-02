@@ -1,12 +1,10 @@
 {
     "bitcoin": {
-        "token": "bitcoin",
         "name": "Bitcoin",
         "symbol": "BTC",
         "coingecko_id": "bitcoin"
     },
     "ethereum": {
-        "token": "ethereum",
         "name": "Ethereum",
         "symbol": "ETH",
         "coingecko_id": "ethereum"
