@@ -3,8 +3,8 @@ import express, { Request, Response } from 'express';
 
 import { SupportedCommunities } from './SupportedCommunities';
 import { SupportedContracts } from './SupportedContracts';
-import { SupportedWorlds } from './SupportedWorlds';
 import { SupportedTokens } from './SupportedTokens';
+import { SupportedWorlds } from './SupportedWorlds';
 
 const app = express();
 

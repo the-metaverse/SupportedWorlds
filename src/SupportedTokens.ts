@@ -9,6 +9,6 @@ interface ISupportedTokens {
   };
 }
 
-export const SupportedContracts: ISupportedTokens = JSON.parse(
+export const SupportedTokens: ISupportedTokens = JSON.parse(
   JSON.stringify(SupportedTokensJSON),
 );
