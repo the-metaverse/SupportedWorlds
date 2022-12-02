@@ -4,6 +4,7 @@ import express, { Request, Response } from 'express';
 import { SupportedCommunities } from './SupportedCommunities';
 import { SupportedContracts } from './SupportedContracts';
 import { SupportedWorlds } from './SupportedWorlds';
+import { SupportedTokens } from './SupportedTokens';
 
 const app = express();
 
@@ -27,6 +28,10 @@ app.get('/communities', (req: Request, res: Response) => {
 
 app.get('/owners', (req: Request, res: Response) => {
   res.send(SupportedContracts);
+});
+
+app.get('/tokens', (req: Request, res: Response) => {
+  res.send(SupportedTokens);
 });
 
 app.listen(port, () => {
