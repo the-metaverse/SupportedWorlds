@@ -12,7 +12,7 @@
     "ape_coin": {
         "name": "Ape Coin",
         "symbol": "APE",
-        "coingecko_id": "ape_coin"
+        "coingecko_id": "apecoin"
     },
     "the_sandbox": {
         "name": "The Sandbox",
