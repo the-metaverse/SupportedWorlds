@@ -17,7 +17,7 @@
     "currency": "MANA",
     "description": "Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users of Decentraland can build and explore 3D creations, play games and socialize. The currency of Decentraland is MANA.",
     "label": "Decentraland",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/decentraland.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/worlds/decentraland.webp",
     "parcelSize": 16,
     "table": [
       {
@@ -68,7 +68,7 @@
     "currency": "SAND",
     "description": "The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain SAND.",
     "label": "The Sandbox",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/the-sandbox.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/worlds/the-sandbox.webp",
     "opensea_slug": "sandbox",
     "parcelSize": 9216,
     "table": [
@@ -124,7 +124,7 @@
     "currency": "ETH",
     "description": "A virtual world on the Ethereum blockchain. Build, develop, and sell property on the blocks and streets of Voxels (previously Cryptovoxels). Users own the land and assets, with ownership and trading history recorded permanently on the blockchain.",
     "label": "Voxels",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/voxels.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/worlds/voxels.webp",
     "opensea_slug": "cryptovoxels",
     "table": [
       {
@@ -169,7 +169,7 @@
     "currency": "CUBE",
     "description": "Somnium Space is a virtual reality platform powered by the Ethereum blockchain. Users of Decentraland can build and explore 3D creations, play games and socialize. The currency of Somnium Space is CUBE.",
     "label": "Somnium Space",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/somnium-space.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/worlds/somnium-space.webp",
     "opensea_slug": "somnium-space",
     "table": [
       {
@@ -224,7 +224,7 @@
     "currency": "LOKA",
     "description": "League of Kingdoms' is an MMO Strategy game where gamers fight for dominion. You can fully own and seamlessly trade digital assets through NFT technology. You will participate in game governance through transparent voting and congress system.",
     "label": "League of Kingdoms",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/league-of-kingdoms.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/worlds/league-of-kingdoms.webp",
     "opensea_slug": "league-of-kingdoms",
     "table": [
       {
@@ -281,7 +281,7 @@
     "chain": "ethereum",
     "description": "NFT Worlds is a fully decentralized, fully customizable, community driven, play to earn gaming platform where world owners can create their own limitless metaverse games or experiences for players or exclusive communities within their worlds.",
     "label": "NFT Worlds",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/nft-worlds.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/SupportedWorlds/main/public/logos/worlds/nft-worlds.webp",
     "opensea_slug": "nft-worlds",
     "theme": { "light": "#2c4978", "dark": "#E5D3B3" },
     "traits": {
@@ -319,7 +319,7 @@
     "chain": "ethereum",
     "description": "The SuperWorld Decentralized Ad Network allows virtual landowners to share revenue generated on their property; through advertising, e-commerce, data, analytics, transactions, gaming and much more.",
     "label": "SuperWorld",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/superworld.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/worlds/logos/superworld.webp",
     "opensea_slug": "superworld",
     "parcelSize": 100,
     "theme": { "light": "#9197FB", "dark": "#9197FB" },
@@ -342,7 +342,7 @@
     "chain": "ethereum",
     "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects.",
     "label": "WorldWide Webb Land",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worldwideweb3.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/worlds/logos/worldwideweb3.webp",
     "opensea_slug": "worldwidewebbland",
     "theme": { "light": "#d657e6", "dark": "#d657e6" },
     "traits": {
@@ -372,7 +372,7 @@
     "chain": "ethereum",
     "description": "Treeverse is an open-world, fantasy MMORPG with a MOBA-style combat system.",
     "label": "Treeverse",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/treeverse.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worlds/treeverse.webp",
     "opensea_slug": "treeverse",
     "theme": { "light": "#59b057", "dark": "#59b057" },
     "twitter": "TheTreeverse",
@@ -394,7 +394,7 @@
     "chain": "ethereum",
     "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
     "label": "Otherdeed for Otherside",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/otherside.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worlds/otherside.webp",
     "opensea_slug": "otherdeed",
     "theme": { "light": "#000", "dark": "#fff" },
     "traits": {
@@ -432,7 +432,7 @@
     "chain": "ethereum",
     "description": "Sky Falls is the central region in the Game of Silks metaverse. Each land parcel gives you ownership in 1 acre of land in the metaverse. Land can be developed into horse farms that operate as gamified businesses that can earn owners ongoing valuable rewards. These highly coveted land parcels are scarce in supply and rich in utility. Owners enjoy special development rights & privileges exclusive to this core community.",
     "label": "Silks Sky Falls Land Parcels",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/silks.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worlds/silks.webp",
     "opensea_slug": "silks-sky-falls",
     "theme": { "light": "#222b4f", "dark": "#fbe573" },
     "twitter": "gameofsilks",
@@ -454,7 +454,7 @@
     "chain": "ethereum",
     "description": "Every Fluf needs a place to call home... and you know they're all about living the high life.",
     "label": "FLUF World: Burrows",
-    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/fluf-world.webp",
+    "logo": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/worlds/fluf-world.webp",
     "opensea_slug": "fluf-world-burrows",
     "theme": { "light": "#e66848", "dark": "#e66848" },
     "twitter": "flufworld",

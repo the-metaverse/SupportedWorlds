@@ -1,27 +1,37 @@
 {
-    "bitcoin": {
-        "name": "Bitcoin",
-        "symbol": "BTC",
-        "coingecko_id": "bitcoin"
-    },
-    "ethereum": {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "coingecko_id": "ethereum"
-    },
-    "ape_coin": {
-        "name": "Ape Coin",
-        "symbol": "APE",
-        "coingecko_id": "apecoin"
-    },
-    "the_sandbox": {
-        "name": "The Sandbox",
-        "symbol": "SAND",
-        "coingecko_id": "the-sandbox"
-    },
-    "decentraland": {
-        "name": "Decentraland",
-        "symbol": "MANA",
-        "coingecko_id": "decentraland"
-    }
+  "bitcoin": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "coingecko_id": "bitcoin",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "icon": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/tokens/bitcoin.webp"
+  },
+  "ethereum": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "coingecko_id": "ethereum",
+    "url": "https://ethereum.org/en/",
+    "icon": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/tokens/ethereum.webp"
+  },
+  "ape_coin": {
+    "name": "Ape Coin",
+    "symbol": "APE",
+    "coingecko_id": "apecoin",
+    "url": "https://apecoin.com/",
+    "icon": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/tokens/apecoin.webp"
+  },
+  "the_sandbox": {
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "coingecko_id": "the-sandbox",
+    "url": "https://www.sandbox.game/en/",
+    "icon": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/tokens/sand.webp"
+  },
+  "decentraland": {
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "coingecko_id": "decentraland",
+    "url": "https://decentraland.org/",
+    "icon": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/tokens/mana.webp"
+  }
 }
