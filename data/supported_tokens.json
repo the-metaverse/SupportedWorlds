@@ -20,14 +20,14 @@
     "url": "https://apecoin.com/",
     "icon": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/tokens/apecoin.webp"
   },
-  "the_sandbox": {
+  "sand": {
     "name": "The Sandbox",
     "symbol": "SAND",
     "coingecko_id": "the-sandbox",
     "url": "https://www.sandbox.game/en/",
     "icon": "https://raw.githubusercontent.com/the-metaverse/supported-worlds/main/public/logos/tokens/sand.webp"
   },
-  "decentraland": {
+  "mana": {
     "name": "Decentraland",
     "symbol": "MANA",
     "coingecko_id": "decentraland",
