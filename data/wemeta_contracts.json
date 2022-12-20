@@ -1,12 +1,22 @@
-[
-  {
+{
+  "diamond_land_vault": {
     "mainnet": {
-      "diamond_land_vault": "",
-      "mock_dcl_land": ""
+      "address": ""
     },
     "goerli": {
-      "diamond_land_vault": "0x8e811F430B42c7965b0c8DD9f7235ef906985870",
-      "mock_dcl_land": "0x597Ed6E71EB07BaD7af6F04504021032161d41F0"
+      "address": "0x8e811F430B42c7965b0c8DD9f7235ef906985870"
     }
+  },
+  "mock_dcl_land": {
+    "mainnet": {
+      "address": ""
+    },
+    "goerli": {
+      "address": "0x597Ed6E71EB07BaD7af6F04504021032161d41F0"
+    }
+  },
+  "st_diamond_land_vault_token": {
+    "pool_ids": [],
+    "address": ""
   }
-]
+}
