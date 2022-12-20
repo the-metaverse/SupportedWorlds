@@ -4,6 +4,7 @@ import express, { Request, Response } from 'express';
 import { SupportedCommunities } from './SupportedCommunities';
 import { SupportedContracts } from './SupportedContracts';
 import { SupportedTokens } from './SupportedTokens';
+import { SupportedWeMetaContracts } from './SupportedWeMetaContracts';
 import { SupportedWorlds } from './SupportedWorlds';
 
 const app = express();
@@ -28,6 +29,10 @@ app.get('/communities', (req: Request, res: Response) => {
 
 app.get('/owners', (req: Request, res: Response) => {
   res.send(SupportedContracts);
+});
+
+app.get('/wemeta_contracts', (req: Request, res: Response) => {
+  res.send(SupportedWeMetaContracts);
 });
 
 app.get('/tokens', (req: Request, res: Response) => {
