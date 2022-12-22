@@ -11,7 +11,7 @@
     },
     "goerli": {
       "internal": {
-        "diamond_land_vault": "0x8e811F430B42c7965b0c8DD9f7235ef906985870",
+        "diamond_land_vault": "0xf46f5965E14eae990Dc53FE45e774d19bF282B2d",
         "st_diamond_land_vault_token": ""
       },
       "external":{
