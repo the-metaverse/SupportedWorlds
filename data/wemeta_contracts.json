@@ -2,7 +2,7 @@
   "addresses": {
     "mainnet": {
       "internal": {
-        "diamond_land_vault": "",
+        "decentraland_vault": "",
         "st_diamond_land_vault_token": ""
       },
       "external":{
@@ -11,7 +11,7 @@
     },
     "goerli": {
       "internal": {
-        "diamond_land_vault": "0xf46f5965E14eae990Dc53FE45e774d19bF282B2d",
+        "decentraland_vault": "0xf46f5965E14eae990Dc53FE45e774d19bF282B2d",
         "st_diamond_land_vault_token": ""
       },
       "external":{
