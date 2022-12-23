@@ -6,8 +6,8 @@
         "st_diamond_land_vault_token": ""
       },
       "external":{
-        "decentraland": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
-      },
+        "decentraland": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d"
+      }
     },
     "goerli": {
       "internal": {
@@ -15,8 +15,8 @@
         "st_diamond_land_vault_token": ""
       },
       "external":{
-        "decentraland": "0x597Ed6E71EB07BaD7af6F04504021032161d41F0",
-      },
+        "decentraland": "0x597Ed6E71EB07BaD7af6F04504021032161d41F0"
+      }
     }
   },
   "abi": {
