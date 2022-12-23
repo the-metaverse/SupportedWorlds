@@ -20,7 +20,7 @@
     }
   },
   "abi": {
-    "diamond_land_vault": [
+    "decentraland_vault": [
       {
         "anonymous": false,
         "inputs": [
