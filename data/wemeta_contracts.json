@@ -1,33 +1,23 @@
 {
   "addresses": {
     "mainnet": {
-      "internal": {
-        "decentraland_vault": "",
-        "st_diamond_land_vault_token": ""
+      "vault": {
+        "decentraland": ""
       },
-      "external":{
+      "land":{
         "decentraland": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d"
       }
     },
-    "goerli": {
-      "internal": {
-        "decentraland_vault": "0xf46f5965E14eae990Dc53FE45e774d19bF282B2d",
-        "st_diamond_land_vault_token": ""
-      },
-      "external":{
-        "decentraland": "0x597Ed6E71EB07BaD7af6F04504021032161d41F0"
-      }
-    },
     "sepolia":{
-      "internal":{
-        "nftWorld_land_vault":"0x4679928F2cb2A87b23fF4e08d7250475ec9Ed576",
-        "sandbox_land_vault": "0x8B4a10646f6cf4243e99c65444598a034D4bb274",
-        "otherdeed_land_vault": "0x2CF417B57e676dc857e79557A7F4f891c296877B",
-        "decentraland_land_vault":"0x3B921E8e6D28D2668715841c26c3677Aa9Da7270"
+      "vault":{
+        "nft_world":"0x759E202Bba63cBc30258B660bbC1999fBC684A6A",
+        "the_sandbox": "0x8Cc1903F744e4526998c3E8e1F29A369eD0353e6",
+        "otherdeed": "0xaB332fD5A36854237F4b58C4ec79814a01D33C11",
+        "decentraland": "0x3B921E8e6D28D2668715841c26c3677Aa9Da7270"
       },
-      "external":{
-        "nftWorlds": "0xa38b57fD1fA78F68719750D902cff70B407595EB",
-        "sandbox":"0xD4F7AaC588ee9aE124db2Eda7B1491B5bE6e0d92",
+      "land":{
+        "nft_worlds": "0xa38b57fD1fA78F68719750D902cff70B407595EB",
+        "the_sandbox":"0xD4F7AaC588ee9aE124db2Eda7B1491B5bE6e0d92",
         "otherdeed": "0xcfb2F1CC82d4cbeD88A79FE81B27FBD9c9Cf3749",
         "decentraland":"0x1D26f219821Bd668131f9590f5C292Dd1F8d32fD"
       }
