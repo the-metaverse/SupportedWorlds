@@ -6,7 +6,7 @@
   "containerDefinitions": [
     {
       "name": "wemeta-supported-worlds-prod",
-      "image": "256487760603.dkr.ecr.us-west-2.amazonaws.com/wemeta-supported-worlds:33",
+      "image": "256487760603.dkr.ecr.us-west-2.amazonaws.com/wemeta-supported-worlds:34",
       "essential": true,
       "portMappings": [
         {
